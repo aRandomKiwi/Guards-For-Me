@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<GFM_GuardSpot.label>Lugar de guardia</GFM_GuardSpot.label>
+	<GFM_GuardSpot.description>Un lugar donde los guardias vigilan la zona.</GFM_GuardSpot.description>
+	
+	<GFM_WPPatrolAlpha.label>Patrulla negra</GFM_WPPatrolAlpha.label>
+	<GFM_WPPatrolAlpha.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolAlpha.description>
+	<GFM_WPPatrolBeta.label>Patrulla roja</GFM_WPPatrolBeta.label>
+	<GFM_WPPatrolBeta.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolBeta.description>
+	<GFM_WPPatrolGamma.label>Patrulla naranja</GFM_WPPatrolGamma.label>
+	<GFM_WPPatrolGamma.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolGamma.description>
+	<GFM_WPPatrolDelta.label>Patrulla amarilla</GFM_WPPatrolDelta.label>
+	<GFM_WPPatrolDelta.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolDelta.description>
+	<GFM_WPPatrolEpsilon.label>Patrulla verde</GFM_WPPatrolEpsilon.label>
+	<GFM_WPPatrolEpsilon.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolEpsilon.description>
+	<GFM_WPPatrolZeta.label>Patrulla azul</GFM_WPPatrolZeta.label>
+	<GFM_WPPatrolZeta.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolZeta.description>
+	<GFM_WPPatrolEta.label>Patrulla Violeta</GFM_WPPatrolEta.label>
+	<GFM_WPPatrolEta.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolEta.description>
+	<GFM_WPPatrolTheta.label>Patrulla rosa</GFM_WPPatrolTheta.label>
+	<GFM_WPPatrolTheta.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolTheta.description>
+	<GFM_WPPatrolIota.label>Patrulla gris</GFM_WPPatrolIota.label>
+	<GFM_WPPatrolIota.description>un punto de ruta utilizado para formar una ruta de patrulla</GFM_WPPatrolIota.description>
+</LanguageData>

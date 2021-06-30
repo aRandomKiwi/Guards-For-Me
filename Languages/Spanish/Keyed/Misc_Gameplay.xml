@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<GFM_DesignatorNeedSelectValidThreat>Debes seleccionar una amenaza válida</GFM_DesignatorNeedSelectValidThreat>
+	<GFM_CannotChangeHostilityResponse>¡No se puede cambiar el modo de respuesta de hostilidad de los guardias en servicio!</GFM_CannotChangeHostilityResponse>
+	
+	<GFM_DoStandguard>Guardia un área</GFM_DoStandguard>
+	<GFM_DoPatrolGuard>Patrulla en un camino</GFM_DoPatrolGuard>
+	<GFM_DoBodyGuard>Protege a un VIP</GFM_DoBodyGuard>
+
+	<GFM_GuardSpotDirLeft>Izquierda</GFM_GuardSpotDirLeft>
+	<GFM_GuardSpotDirRight>Derecha</GFM_GuardSpotDirRight>
+	<GFM_GuardSpotDirTop>Arriba</GFM_GuardSpotDirTop>
+	<GFM_GuardSpotDirBottom>Abajo</GFM_GuardSpotDirBottom>
+	
+	<GFM_patrolAlpha>Patrulla negra</GFM_patrolAlpha>
+	<GFM_patrolBeta>Patrulla roja</GFM_patrolBeta>
+	<GFM_patrolGamma>Patrulla naranja</GFM_patrolGamma>
+	<GFM_patrolDelta>Patrulla amarilla</GFM_patrolDelta>
+	<GFM_patrolEpsilon>Patrulla verde</GFM_patrolEpsilon>
+	<GFM_patrolZeta>Patrulla azul</GFM_patrolZeta>
+	<GFM_patrolEta>Patrulla Violeta</GFM_patrolEta>
+	<GFM_patrolTheta>Patrulla rosa</GFM_patrolTheta>
+	<GFM_patrolIota>Patrulla Gris</GFM_patrolIota>
+	<GFM_patrol>Patrulla</GFM_patrol>
+	
+	<GFM_GuardMode>Modo de guardia</GFM_GuardMode>
+	<GFM_GuardModeDesc>Permite que la unidad se asigne automáticamente al punto de guardia </GFM_GuardModeDesc>
+	
+	<GFM_GuardSpotAffectedPawn>Guardia asignada : {0}</GFM_GuardSpotAffectedPawn>
+	<GFM_GuardSpotClearAffectedPawn>Cancelar reserva</GFM_GuardSpotClearAffectedPawn>
+	<GFM_GuardSpotAffectGuard>Forzar un guardia</GFM_GuardSpotAffectGuard>
+	<GFM_GuardSpotAffectGuardDesc>Reserve un guardia en este lugar</GFM_GuardSpotAffectGuardDesc>
+
+	<GFM_GuardAttackOnlyNearThreats>Amenazas cercanas</GFM_GuardAttackOnlyNearThreats>
+	<GFM_GuardAttackOnlyNearThreatsDesc>Si está habilitado, le permite indicar a los guardaespaldas que ataquen solo amenazas muy cercanas</GFM_GuardAttackOnlyNearThreatsDesc>
+	
+	<GFM_GuardStopAll>Detener a todos los agentes.</GFM_GuardStopAll>
+	<GFM_GuardStopAllDesc>Evita que todos los guardaespaldas protejan esta unidad</GFM_GuardStopAllDesc>
+	
+	<GFM_GuardStop>Detener la protección</GFM_GuardStop>
+	<GFM_GuardStopDesc>Evita que el guardaespaldas proteja esta unidad</GFM_GuardStopDesc>
+	
+	<GFM_Guard>Proteger la unidad</GFM_Guard>
+	<GFM_GuardDesc>Le permite especificar al mercenario qué unidad proteger, él seguirá y protegerá la unidad</GFM_GuardDesc>
+
+	<!-- Alerts-->
+	<GFM_AlertWaypointsInfo>Presione 'Eliminar' para eliminar la patrulla</GFM_AlertWaypointsInfo>
+	<GFM_AlertWaypointsInfoDesc>Presione 'Eliminar' para eliminar todos los puntos intermedios de la patrulla seleccionada actualmente</GFM_AlertWaypointsInfoDesc>
+		<GFM_AlertWaypointsInfo2>Presione 'Retroceso' para eliminar el último waypoint</GFM_AlertWaypointsInfo2>
+	<GFM_AlertWaypointsInfo2Desc>Presione 'Retroceso' para eliminar el último waypoint colocado</GFM_AlertWaypointsInfo2Desc>
+
+	<!-- Messages -->
+	<GFM_MsgPatrolDestroyed>Ruta de patrulla actual eliminada</GFM_MsgPatrolDestroyed>
+	<GFM_MsgPatrolLastWaypointDestroyed>Último waypoint colocado eliminado</GFM_MsgPatrolLastWaypointDestroyed>
+	
+		<!-- Settings -->
+	<GFM_SettingsSectionGeneral>General :</GFM_SettingsSectionGeneral>
+	<GFM_SettingsEndPathMode>Cuando un guardia llega al final de un camino de patrulla :</GFM_SettingsEndPathMode>
+	<GFM_SettingsEndPathMode1>Comienza de nuevo en la dirección opuesta</GFM_SettingsEndPathMode1>
+	<GFM_SettingsEndPathMode2>Vuelve al primer waypoint.</GFM_SettingsEndPathMode2>
+	<GFM_SettingsJobStop>Parar un trabajo</GFM_SettingsJobStop>
+	<GFM_SettingsMoodMinimumThresholdStopJob>Umbral de estado de ánimo mínimo ({0}%)</GFM_SettingsMoodMinimumThresholdStopJob>
+	<GFM_SettingsJoyMinimumThresholdStopJob>Umbral mínimo de alegría ({0}%)</GFM_SettingsJoyMinimumThresholdStopJob>
+	<GFM_SettingsFoodMinimumThresholdStopJob>Umbral mínimo de alimentos ({0}%)</GFM_SettingsFoodMinimumThresholdStopJob>
+	<GFM_SettingsRestMinimumThresholdStopJob>Umbral de descanso mínimo ({0}%)</GFM_SettingsRestMinimumThresholdStopJob>
+	<GFM_SettingsBladderMinimumThresholdStopJob>Mínimo Umbral de digestión  (Dubs bad Hygiene mod) ({0}%)</GFM_SettingsBladderMinimumThresholdStopJob>
+	<GFM_SettingsHygieneMinimumThresholdStopJob>Umbral de higiene (Dubs bad Hygiene mod) mínimo ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
+	<GFM_SettingsPatrolWalkMode>Modo de caminar para patrullas</GFM_SettingsPatrolWalkMode>
+	<GFM_SettingsPatrolWalkModeWalk>Caminando</GFM_SettingsPatrolWalkModeWalk>
+	<GFM_SettingsPatrolWalkModeJog>Trotar</GFM_SettingsPatrolWalkModeJog>
+	<GFM_SettingsPatrolWalkModeSprint>Corre</GFM_SettingsPatrolWalkModeSprint>
+	<GFM_SettingsHideIcon>Ocultar íconos</GFM_SettingsHideIcon>
+	<GFM_SettingsHideGuardSpot>Ocultar ubicaciones de guardia</GFM_SettingsHideGuardSpot>
+	<GFM_SettingsGuardAsJob>Presentar la función de "Guardia" como profesión</GFM_SettingsGuardAsJob>
+	<GFM_SettingsStandGuardAreFixed>Los guardias no se mueven de su 'puesto de guardia' cuando atacan (solo ataque a distancia)</GFM_SettingsStandGuardAreFixed>
+	<GFM_SettingsDisableJobDisplay>Los guardias no se mueven de su 'puesto de guardia' cuando atacan (solo ataque a distancia)</GFM_SettingsDisableJobDisplay>
+	<GFM_SettingsExterminatorGuard>Activa el modo exterminador (los guardias matan además todos los animales salvajes)</GFM_SettingsExterminatorGuard>
+	<GFM_SettingsHideStandGuardButton>Ocultar el botón de 'guardia permanente'</GFM_SettingsHideStandGuardButton>
+	<GFM_SettingsHidePatrolButton>Ocultar el botón 'patrulla'</GFM_SettingsHidePatrolButton>
+	<GFM_SettingsHideBodyguardButton>Ocultar el botón 'guardaespaldas'</GFM_SettingsHideBodyguardButton>
+	<GFM_SettingsHideReactionForceButton>Ocultar el botón 'fuerza de reacción'</GFM_SettingsHideReactionForceButton>
+</LanguageData>

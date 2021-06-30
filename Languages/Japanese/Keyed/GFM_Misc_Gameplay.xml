@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GFM_DesignatorNeedSelectValidThreat>有効な脅威を選択してください</GFM_DesignatorNeedSelectValidThreat>
+  <GFM_DoStandguard>周辺警備している</GFM_DoStandguard>
+  <GFM_DoPatrolGuard>巡回している</GFM_DoPatrolGuard>
+  <GFM_DoBodyGuard>VIPを警護している</GFM_DoBodyGuard>
+  <GFM_DoDeathSquad>巡回と攻撃</GFM_DoDeathSquad>
+
+  <GFM_GuardSpotDirLeft>西側を監視</GFM_GuardSpotDirLeft>
+  <GFM_GuardSpotDirRight>東側を監視</GFM_GuardSpotDirRight>
+  <GFM_GuardSpotDirTop>北側を監視</GFM_GuardSpotDirTop>
+  <GFM_GuardSpotDirBottom>南側を監視</GFM_GuardSpotDirBottom>
+
+  <GFM_patrolAlpha>パトロール:アルファ</GFM_patrolAlpha>
+  <GFM_patrolBeta>パトロール:ベータ</GFM_patrolBeta>
+  <GFM_patrolGamma>パトロール:ガンマ</GFM_patrolGamma>
+  <GFM_patrolDelta>パトロール:デルタ</GFM_patrolDelta>
+  <GFM_patrolEpsilon>パトロール:イプシロン</GFM_patrolEpsilon>
+  <GFM_patrolZeta>パトロール:ゼータ</GFM_patrolZeta>
+  <GFM_patrolEta>パトロール:イータ</GFM_patrolEta>
+  <GFM_patrolTheta>パトロール:シータ</GFM_patrolTheta>
+  <GFM_patrolIota>パトロール:イオタ</GFM_patrolIota>
+  <GFM_patrol>パトロール</GFM_patrol>
+
+  <GFM_GuardSpot>警備地点:黒</GFM_GuardSpot>
+  <GFM_GuardSpotRed>警備地点:赤</GFM_GuardSpotRed>
+  <GFM_GuardSpotOrange>警備地点:橙</GFM_GuardSpotOrange>
+  <GFM_GuardSpotYellow>警備地点:黄</GFM_GuardSpotYellow>
+  <GFM_GuardSpotGreen>警備地点:緑</GFM_GuardSpotGreen>
+  <GFM_GuardSpotBlue>警備地点:青</GFM_GuardSpotBlue>
+  <GFM_GuardSpotPurple>警備地点:紫</GFM_GuardSpotPurple>
+  <GFM_GuardSpotPink>警備地点:桃</GFM_GuardSpotPink>
+  <GFM_GuardSpotGray>警備地点:灰</GFM_GuardSpotGray>
+
+  <GFM_GuardMode>警備モード</GFM_GuardMode>
+  <GFM_GuardModeDesc>警備兵を警備地点に自動的に割り当てることができます</GFM_GuardModeDesc>
+
+  <GFM_GuardSpotAffectedPawn>影響を受ける警備兵：{0}</GFM_GuardSpotAffectedPawn>
+  <GFM_GuardSpotClearAffectedPawn>警備を中止する</GFM_GuardSpotClearAffectedPawn>
+  <GFM_GuardSpotAffectGuard>警備を強制</GFM_GuardSpotAffectGuard>
+  <GFM_GuardSpotAffectGuardDesc>警備兵をこの警備地点に緊急配備する。</GFM_GuardSpotAffectGuardDesc>
+
+  <GFM_GuardAttackOnlyNearThreats>近距離の敵だけ</GFM_GuardAttackOnlyNearThreats>
+  <GFM_GuardAttackOnlyNearThreatsDesc>有効にすると、護衛の傭兵たちが非常に近い脅威だけを攻撃するようにボディガードを指定できます。</GFM_GuardAttackOnlyNearThreatsDesc>
+
+  <GFM_GuardStopAll>護衛を全て停止</GFM_GuardStopAll>
+  <GFM_GuardStopAllDesc>護衛をしているすべてのボディガードにこの対象の護衛を停止するように命令します。</GFM_GuardStopAllDesc>
+
+  <GFM_GuardStop>護衛を停止</GFM_GuardStop>
+  <GFM_GuardStopDesc>護衛をしているボディガードにこの対象の護衛を停止するように命令します。</GFM_GuardStopDesc>
+
+  <GFM_Guard>対象を護衛</GFM_Guard>
+  <GFM_GuardDesc>傭兵に、どの対象を護衛・追従・保護するのかを指定できます。これにより対象を追跡して脅威から護衛します.</GFM_GuardDesc>
+
+  <GFM_PatrolAndKill>巡回と攻撃</GFM_PatrolAndKill>
+  <GFM_PatrolAndKillDesc>部隊がマップ上に存在するすべての脅威を自動的に発見して排除することを許可します。</GFM_PatrolAndKillDesc>
+
+  <GFM_DeathSquadForceTarget>強制目標指示</GFM_DeathSquadForceTarget>
+
+  <!-- Alerts-->
+  <GFM_AlertWaypointsInfo>DELキーでパトロールを削除</GFM_AlertWaypointsInfo>
+  <GFM_AlertWaypointsInfoDesc>「Deleteキー」を押すと、現在選択されているパトロールの全経由地点を削除します</GFM_AlertWaypointsInfoDesc>
+  <GFM_AlertWaypointsInfo2>Backspaceキーで最後の経由地点を削除</GFM_AlertWaypointsInfo2>
+  <GFM_AlertWaypointsInfo2Desc>「Backspaceキー」を押すと、最後に設置された経由地点を削除します</GFM_AlertWaypointsInfo2Desc>
+
+  <!-- Messages -->
+  <GFM_MsgPatrolDestroyed>現在のパトロール経路が削除された</GFM_MsgPatrolDestroyed>
+  <GFM_MsgPatrolLastWaypointDestroyed>最後の経由地点が削除された</GFM_MsgPatrolLastWaypointDestroyed>
+  <GFM_BodyGuardCantReachVIP>護衛対象{0}を{1}に割り当てることはできません（護衛対象にボディーガードが到達不可能）</GFM_BodyGuardCantReachVIP>
+
+  <!-- Settings -->
+  <GFM_SettingsSectionGeneral>全体設定：</GFM_SettingsSectionGeneral>
+  <GFM_SettingsEndPathMode>警備兵がパトロール経路の最後に到達時：</GFM_SettingsEndPathMode>
+  <GFM_SettingsEndPathMode1>経路地点を逆方向に戻る</GFM_SettingsEndPathMode1>
+  <GFM_SettingsEndPathMode2>最初の経由地点から開始</GFM_SettingsEndPathMode2>
+  <GFM_SettingsJobStop>行動を終了する</GFM_SettingsJobStop>
+  <GFM_SettingsMoodMinimumThresholdStopJob>心情の最小しきい値（{0}％)</GFM_SettingsMoodMinimumThresholdStopJob>
+  <GFM_SettingsJoyMinimumThresholdStopJob>娯楽欲求の最小しきい値（{0}％)</GFM_SettingsJoyMinimumThresholdStopJob>
+  <GFM_SettingsFoodMinimumThresholdStopJob>食事欲求の最小しきい値（{0}％)</GFM_SettingsFoodMinimumThresholdStopJob>
+  <GFM_SettingsRestMinimumThresholdStopJob>休息欲求の最小しきい値（{0}％)</GFM_SettingsRestMinimumThresholdStopJob>
+  <GFM_SettingsBladderMinimumThresholdStopJob>膀胱欲求(Dubs-bad-Hygiene)の最小しきい値（{0}％)</GFM_SettingsBladderMinimumThresholdStopJob>
+  <GFM_SettingsHygieneMinimumThresholdStopJob>衛生欲求(Dubs-bad-Hygiene)の最小しきい値（{0}％)</GFM_SettingsHygieneMinimumThresholdStopJob>
+  <GFM_SettingsPatrolWalkMode>パトロールの移動モード</GFM_SettingsPatrolWalkMode>
+  <GFM_SettingsPatrolWalkModeWalk>歩き</GFM_SettingsPatrolWalkModeWalk>
+  <GFM_SettingsPatrolWalkModeJog>小走り</GFM_SettingsPatrolWalkModeJog>
+  <GFM_SettingsPatrolWalkModeSprint>全力疾走</GFM_SettingsPatrolWalkModeSprint>
+  <GFM_SettingsHideIcon>アイコンを非表示</GFM_SettingsHideIcon>
+  <GFM_SettingsHideGuardSpot>警備地点を非表示</GFM_SettingsHideGuardSpot>
+  <GFM_SettingsGuardAsJob>「警備」の機能を仕事として提示する</GFM_SettingsGuardAsJob>
+  <GFM_SettingsStandGuardAreFixed>警備兵は攻撃する際に警備地点から移動しない(遠距離攻撃の場合だけ)</GFM_SettingsStandGuardAreFixed>
+  <GFM_SettingsDisableJobDisplay>情報画面に表示する実行中の警備(仕事)を無効にする</GFM_SettingsDisableJobDisplay>
+  <GFM_SettingsExterminatorGuard>駆除モードを有効化（警備兵は通常の警備に加えて範囲内の野生動物を駆除します）</GFM_SettingsExterminatorGuard>
+  <GFM_SettingsColonistTitleUnderName>入植者の称号を名前の下に表示</GFM_SettingsColonistTitleUnderName>
+  <GFM_SettingsMeleeAttackRadiusSpot>近接戦ボディガードの敵反応半径（{0})</GFM_SettingsMeleeAttackRadiusSpot>
+  <GFM_SettingsStandingGuardMaxDistanceWithGS>周辺警備で警備地点に強制復帰を開始する、離れることが可能な最大距離 ({0})</GFM_SettingsStandingGuardMaxDistanceWithGS>
+  <GFM_SettingsAutoUnforbidThreatsKilledByGuards>警備兵によって殺害された敵の死体を自動的に禁止しない</GFM_SettingsAutoUnforbidThreatsKilledByGuards>
+  <GFM_SettingsKillDownedThreats>倒れた敵を殺害</GFM_SettingsKillDownedThreats>
+  <GFM_SettingsHideStandGuardButton>周辺警備ボタンを隠す</GFM_SettingsHideStandGuardButton>
+  <GFM_SettingsHidePatrolButton>巡回ボタンを隠す</GFM_SettingsHidePatrolButton>
+  <GFM_SettingsHideBodyguardButton>警護ボタンを隠す</GFM_SettingsHideBodyguardButton>
+  <GFM_SettingsHideReactionForceButton>巡回と攻撃ボタンを隠す</GFM_SettingsHideReactionForceButton>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<GFM_DoStandguard.Label>guarding area</GFM_DoStandguard.Label>
+<GFM_DoStandguard.gerund>guard area</GFM_DoStandguard.gerund>
+<GFM_DoStandguard.verb>guarding area</GFM_DoStandguard.verb>
+
+<GFM_DoPatrolGuard.Label>patroling</GFM_DoPatrolGuard.Label>
+<GFM_DoPatrolGuard.gerund>patrol on a path</GFM_DoPatrolGuard.gerund>
+<GFM_DoPatrolGuard.verb>patroling</GFM_DoPatrolGuard.verb>
+
+<GFM_DoBodyGuard.Label>protecting vip</GFM_DoBodyGuard.Label>
+<GFM_DoBodyGuard.gerund>protect a vip</GFM_DoBodyGuard.gerund>
+<GFM_DoBodyGuard.verb>protecting a vip</GFM_DoBodyGuard.verb>
+
+<GFM_DoDeathSquad.Label>patroling and kill</GFM_DoDeathSquad.Label>
+<GFM_DoDeathSquad.gerund>patroling and kill</GFM_DoDeathSquad.gerund>
+<GFM_DoDeathSquad.verb>patroling and kill</GFM_DoDeathSquad.verb>
+
+</LanguageData>

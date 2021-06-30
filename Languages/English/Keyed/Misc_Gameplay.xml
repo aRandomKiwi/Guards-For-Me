@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<GFM_DesignatorNeedSelectValidThreat>You need to select a valid threat</GFM_DesignatorNeedSelectValidThreat>
+	<GFM_DoStandguard>Guard an area</GFM_DoStandguard>
+	<GFM_DoPatrolGuard>Patrol on a path</GFM_DoPatrolGuard>
+	<GFM_DoBodyGuard>Protect a VIP</GFM_DoBodyGuard>
+	<GFM_DoDeathSquad>Patrol and kill</GFM_DoDeathSquad>
+	
+	<GFM_GuardSpotDirLeft>Left</GFM_GuardSpotDirLeft>
+	<GFM_GuardSpotDirRight>Right</GFM_GuardSpotDirRight>
+	<GFM_GuardSpotDirTop>Top</GFM_GuardSpotDirTop>
+	<GFM_GuardSpotDirBottom>Bottom</GFM_GuardSpotDirBottom>
+	
+	<GFM_patrolAlpha>Black patrol</GFM_patrolAlpha>
+	<GFM_patrolBeta>Red patrol</GFM_patrolBeta>
+	<GFM_patrolGamma>Orange patrol</GFM_patrolGamma>
+	<GFM_patrolDelta>Yellow patrol</GFM_patrolDelta>
+	<GFM_patrolEpsilon>Green patrol</GFM_patrolEpsilon>
+	<GFM_patrolZeta>Blue patrol</GFM_patrolZeta>
+	<GFM_patrolEta>Purple patrol</GFM_patrolEta>
+	<GFM_patrolTheta>Pink patrol</GFM_patrolTheta>
+	<GFM_patrolIota>Gray patrol</GFM_patrolIota>
+	<GFM_patrol>Patrol</GFM_patrol>
+	
+	<GFM_GuardSpot>Black guard spot</GFM_GuardSpot>
+	<GFM_GuardSpotRed>Red guard spot</GFM_GuardSpotRed>
+	<GFM_GuardSpotOrange>Orange guard spot</GFM_GuardSpotOrange>
+	<GFM_GuardSpotYellow>Yellow guard spot</GFM_GuardSpotYellow>
+	<GFM_GuardSpotGreen>Green guard spot</GFM_GuardSpotGreen>
+	<GFM_GuardSpotBlue>Blue guard spot</GFM_GuardSpotBlue>
+	<GFM_GuardSpotPurple>Purple guard spot</GFM_GuardSpotPurple>
+	<GFM_GuardSpotPink>Pink guard spot</GFM_GuardSpotPink>
+	<GFM_GuardSpotGray>Gray guard spot</GFM_GuardSpotGray>
+	
+	<GFM_GuardMode>Guard Mode</GFM_GuardMode>
+	<GFM_GuardModeDesc>Allows the unit to be assigned automatically on guardspot</GFM_GuardModeDesc>
+
+	<GFM_GuardSpotAffectedPawn>Affected Guard : {0}</GFM_GuardSpotAffectedPawn>
+	<GFM_GuardSpotClearAffectedPawn>Cancel reservation</GFM_GuardSpotClearAffectedPawn>
+	<GFM_GuardSpotAffectGuard>Force a guardian</GFM_GuardSpotAffectGuard>
+	<GFM_GuardSpotAffectGuardDesc>Reserve a guard on this guard spot</GFM_GuardSpotAffectGuardDesc>
+
+	<GFM_GuardAttackOnlyNearThreats>Only Near Threats</GFM_GuardAttackOnlyNearThreats>
+	<GFM_GuardAttackOnlyNearThreatsDesc>If enabled, this allows you to specify which bodyguards are supposed to attack only very close threats.</GFM_GuardAttackOnlyNearThreatsDesc>
+	
+	<GFM_GuardStopAll>Stop All Bodygards</GFM_GuardStopAll>
+	<GFM_GuardStopAllDesc>Allows you to stop all bodyguards from protecting this unit.</GFM_GuardStopAllDesc>
+	
+	<GFM_GuardStop>Stop Bodyguard</GFM_GuardStop>
+	<GFM_GuardStopDesc>Allows you to stop the bodyguard from protecting this unit.</GFM_GuardStopDesc>
+	
+	<GFM_Guard>Protect Unit</GFM_Guard>
+	<GFM_GuardDesc>Allows you to specify to the mercenary which unit to protect. This will make them follow and protect the unit.</GFM_GuardDesc>
+	
+	<GFM_PatrolAndKill>Reaction force</GFM_PatrolAndKill>
+	<GFM_PatrolAndKillDesc>Allow the unit to automatically find and kill every threats present on the map.</GFM_PatrolAndKillDesc>
+	
+	<GFM_DeathSquadForceTarget>Forced targeting</GFM_DeathSquadForceTarget>
+
+	<!-- Alerts-->
+	<GFM_AlertWaypointsInfo>Press 'DEL' to remove the patrol</GFM_AlertWaypointsInfo>
+	<GFM_AlertWaypointsInfoDesc>Press 'DEL' to remove all the waypoints of the current selected patrol</GFM_AlertWaypointsInfoDesc>
+	<GFM_AlertWaypointsInfo2>Press 'Backspace' to remove the last waypoint</GFM_AlertWaypointsInfo2>
+	<GFM_AlertWaypointsInfo2Desc>Press 'Backspace' to remove the latest placed waypoint</GFM_AlertWaypointsInfo2Desc>
+
+	<!-- Messages -->
+	<GFM_MsgPatrolDestroyed>Current patrol path deleted</GFM_MsgPatrolDestroyed>
+	<GFM_MsgPatrolLastWaypointDestroyed>Latest placed waypoint deleted</GFM_MsgPatrolLastWaypointDestroyed>
+	<GFM_BodyGuardCantReachVIP>Cannot assign VIP {0} to {1} (the VIP cannot be reached by the bodyguard)</GFM_BodyGuardCantReachVIP>
+	
+	<!-- Settings -->
+	<GFM_SettingsSectionGeneral>General :</GFM_SettingsSectionGeneral>
+	<GFM_SettingsEndPathMode>When a guard reaches the end of a patrol path :</GFM_SettingsEndPathMode>
+	<GFM_SettingsEndPathMode1>It starts in the opposite direction</GFM_SettingsEndPathMode1>
+	<GFM_SettingsEndPathMode2>He goes back to the first waypoint</GFM_SettingsEndPathMode2>
+	<GFM_SettingsJobStop>Job stopping</GFM_SettingsJobStop>
+	<GFM_SettingsMoodMinimumThresholdStopJob>Minimum mood threshold ({0}%)</GFM_SettingsMoodMinimumThresholdStopJob>
+	<GFM_SettingsJoyMinimumThresholdStopJob>Minimum recreation threshold ({0}%)</GFM_SettingsJoyMinimumThresholdStopJob>
+	<GFM_SettingsFoodMinimumThresholdStopJob>Minimum food threshold ({0}%)</GFM_SettingsFoodMinimumThresholdStopJob>
+	<GFM_SettingsRestMinimumThresholdStopJob>Minimum rest threshold ({0}%)</GFM_SettingsRestMinimumThresholdStopJob>
+	<GFM_SettingsBladderMinimumThresholdStopJob>Minimum bladder (Dubs bad Hygiene mod) threshold ({0}%)</GFM_SettingsBladderMinimumThresholdStopJob>
+	<GFM_SettingsHygieneMinimumThresholdStopJob>Minimum hygiene (Dubs bad Hygiene mod) threshold ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
+	<GFM_SettingsPatrolWalkMode>Walking mode for patrols</GFM_SettingsPatrolWalkMode>
+	<GFM_SettingsPatrolWalkModeWalk>Walk</GFM_SettingsPatrolWalkModeWalk>
+	<GFM_SettingsPatrolWalkModeJog>Jog</GFM_SettingsPatrolWalkModeJog>
+	<GFM_SettingsPatrolWalkModeSprint>Sprint</GFM_SettingsPatrolWalkModeSprint>
+	<GFM_SettingsHideIcon>Hide Icons</GFM_SettingsHideIcon>
+	<GFM_SettingsHideGuardSpot>Hide guardspots</GFM_SettingsHideGuardSpot>
+	<GFM_SettingsGuardAsJob>Present the function of "Guard" as a job</GFM_SettingsGuardAsJob>
+	<GFM_SettingsStandGuardAreFixed>Standing guards do not move from their standing spot when they attack (remote attack only)</GFM_SettingsStandGuardAreFixed>
+	<GFM_SettingsDisableJobDisplay>Disable the display of guard job done in the inspect pane</GFM_SettingsDisableJobDisplay>
+	<GFM_SettingsExterminatorGuard>Enable the exterminator mode ( guards kill in addition all wild animals )</GFM_SettingsExterminatorGuard>
+	<GFM_SettingsColonistTitleUnderName>Show colonist title under their name</GFM_SettingsColonistTitleUnderName>
+	<GFM_SettingsMeleeAttackRadiusSpot>Detection radius of enemies for melee guards ( {0} )</GFM_SettingsMeleeAttackRadiusSpot>
+	<GFM_SettingsStandingGuardMaxDistanceWithGS>Maximum distance a standing guard can move away from his guard spot before being forced to return to it ({0})</GFM_SettingsStandingGuardMaxDistanceWithGS>
+	<GFM_SettingsAutoUnforbidThreatsKilledByGuards>Automatically unforbid corpses of enemies killed by guards</GFM_SettingsAutoUnforbidThreatsKilledByGuards>
+	<GFM_SettingsKillDownedThreats>Kill incapacited enemies</GFM_SettingsKillDownedThreats>
+	<GFM_SettingsHideStandGuardButton>Hide standing guard button</GFM_SettingsHideStandGuardButton>
+	<GFM_SettingsHidePatrolButton>Hide patrol button</GFM_SettingsHidePatrolButton>
+	<GFM_SettingsHideBodyguardButton>Hide bodyguard button</GFM_SettingsHideBodyguardButton>
+	<GFM_SettingsHideReactionForceButton>Hide reaction force button</GFM_SettingsHideReactionForceButton>
+</LanguageData>

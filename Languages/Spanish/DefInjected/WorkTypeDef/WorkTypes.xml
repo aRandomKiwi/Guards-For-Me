@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GFM_Guard.label>Guardia</GFM_Guard.label>
+  <GFM_Guard.description>Proteger áreas, patrullar y proteger a los colonos VIP</GFM_Guard.description>
+  <GFM_Guard.gerundLabel>Guardia</GFM_Guard.gerundLabel>
+  <GFM_Guard.labelShort>Guardia</GFM_Guard.labelShort>
+  <GFM_Guard.pawnLabel>Guardia</GFM_Guard.pawnLabel>
+  <GFM_Guard.verb>Guardia</GFM_Guard.verb>
+  
+</LanguageData>

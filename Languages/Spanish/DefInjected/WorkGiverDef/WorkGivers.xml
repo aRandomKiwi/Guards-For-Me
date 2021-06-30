@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<GFM_DoStandguard.Label>Mantener un área</GFM_DoStandguard.Label>
+	<GFM_DoStandguard.gerund>Mantener un área</GFM_DoStandguard.gerund>
+	<GFM_DoStandguard.verb>Mantener un área</GFM_DoStandguard.verb>
+
+	<GFM_DoPatrolGuard.Label>Patrulla</GFM_DoPatrolGuard.Label>
+	<GFM_DoPatrolGuard.gerund>Patrullar en un camino</GFM_DoPatrolGuard.gerund>
+	<GFM_DoPatrolGuard.verb>Patrulla</GFM_DoPatrolGuard.verb>
+
+	<GFM_DoBodyGuard.Label>Protege a un VIP</GFM_DoBodyGuard.Label>
+	<GFM_DoBodyGuard.gerund>proteger a un VIP</GFM_DoBodyGuard.gerund>
+	<GFM_DoBodyGuard.verb>Protege a un VIP</GFM_DoBodyGuard.verb>
+</LanguageData>

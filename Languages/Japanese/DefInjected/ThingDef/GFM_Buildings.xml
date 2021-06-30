@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GFM_GuardSpot.label>警備地点:黒</GFM_GuardSpot.label>
+  <GFM_GuardSpot.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpot.description>
+  <Blueprint_GFM_GuardSpot.label>警備地点:黒 (設計)</Blueprint_GFM_GuardSpot.label>
+  <Frame_GFM_GuardSpot.label>警備地点:黒 (施行)</Frame_GFM_GuardSpot.label>
+  <Frame_GFM_GuardSpot.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpot.description>
+
+  <GFM_GuardSpotRed.label>警備地点:赤</GFM_GuardSpotRed.label>
+  <GFM_GuardSpotRed.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotRed.description>
+  <Blueprint_GFM_GuardSpotRed.label>警備地点:赤 (設計)</Blueprint_GFM_GuardSpotRed.label>
+  <Frame_GFM_GuardSpotRed.label>警備地点:赤 (施行)</Frame_GFM_GuardSpotRed.label>
+  <Frame_GFM_GuardSpotRed.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotRed.description>
+
+  <GFM_GuardSpotOrange.label>警備地点:橙</GFM_GuardSpotOrange.label>
+  <GFM_GuardSpotOrange.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotOrange.description>
+  <Blueprint_GFM_GuardSpotOrange.label>警備地点:橙 (設計)</Blueprint_GFM_GuardSpotOrange.label>
+  <Frame_GFM_GuardSpotOrange.label>警備地点:橙 (施行)</Frame_GFM_GuardSpotOrange.label>
+  <Frame_GFM_GuardSpotOrange.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotOrange.description>
+
+  <GFM_GuardSpotYellow.label>警備地点:黄</GFM_GuardSpotYellow.label>
+  <GFM_GuardSpotYellow.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotYellow.description>
+  <Blueprint_GFM_GuardSpotYellow.label>警備地点:黄 (設計)</Blueprint_GFM_GuardSpotYellow.label>
+  <Frame_GFM_GuardSpotYellow.label>警備地点:黄 (施行)</Frame_GFM_GuardSpotYellow.label>
+  <Frame_GFM_GuardSpotYellow.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotYellow.description>
+
+  <GFM_GuardSpotGreen.label>警備地点:緑</GFM_GuardSpotGreen.label>
+  <GFM_GuardSpotGreen.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotGreen.description>
+  <Blueprint_GFM_GuardSpotGreen.label>警備地点:緑 (設計)</Blueprint_GFM_GuardSpotGreen.label>
+  <Frame_GFM_GuardSpotGreen.label>警備地点:緑 (施行)</Frame_GFM_GuardSpotGreen.label>
+  <Frame_GFM_GuardSpotGreen.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotGreen.description>
+
+  <GFM_GuardSpotBlue.label>警備地点:青</GFM_GuardSpotBlue.label>
+  <GFM_GuardSpotBlue.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotBlue.description>
+  <Blueprint_GFM_GuardSpotBlue.label>警備地点:青 (設計)</Blueprint_GFM_GuardSpotBlue.label>
+  <Frame_GFM_GuardSpotBlue.label>警備地点:青 (施行)</Frame_GFM_GuardSpotBlue.label>
+  <Frame_GFM_GuardSpotBlue.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotBlue.description>
+
+  <GFM_GuardSpotPurple.label>警備地点:紫</GFM_GuardSpotPurple.label>
+  <GFM_GuardSpotPurple.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotPurple.description>
+  <Blueprint_GFM_GuardSpotPurple.label>警備地点:紫 (設計)</Blueprint_GFM_GuardSpotPurple.label>
+  <Frame_GFM_GuardSpotPurple.label>警備地点:紫 (施行)</Frame_GFM_GuardSpotPurple.label>
+  <Frame_GFM_GuardSpotPurple.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotPurple.description>
+
+  <GFM_GuardSpotPink.label>警備地点:桃</GFM_GuardSpotPink.label>
+  <GFM_GuardSpotPink.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotPink.description>
+  <Blueprint_GFM_GuardSpotPink.label>警備地点:桃 (設計)</Blueprint_GFM_GuardSpotPink.label>
+  <Frame_GFM_GuardSpotPink.label>警備地点:桃 (施行)</Frame_GFM_GuardSpotPink.label>
+  <Frame_GFM_GuardSpotPink.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotPink.description>
+
+  <GFM_GuardSpotGray.label>警備地点:灰</GFM_GuardSpotGray.label>
+  <GFM_GuardSpotGray.description>警備兵が警備するべきマップ上の場所を指定します。</GFM_GuardSpotGray.description>
+  <Blueprint_GFM_GuardSpotGray.label>警備地点:灰 (設計)</Blueprint_GFM_GuardSpotGray.label>
+  <Frame_GFM_GuardSpotGray.label>警備地点:灰 (施行)</Frame_GFM_GuardSpotGray.label>
+  <Frame_GFM_GuardSpotGray.description>警備兵が警備するべきマップ上の場所を指定します。</Frame_GFM_GuardSpotGray.description>
+
+  <GFM_WPPatrolAlpha.label>パトロール：アルファ</GFM_WPPatrolAlpha.label>
+  <GFM_WPPatrolAlpha.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolAlpha.description>
+  <Blueprint_GFM_WPPatrolAlpha.label>パトロール：アルファ(設計)</Blueprint_GFM_WPPatrolAlpha.label>
+  <Frame_GFM_WPPatrolAlpha.label>パトロール：アルファ(施行)</Frame_GFM_WPPatrolAlpha.label>
+  <Frame_GFM_WPPatrolAlpha.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolAlpha.description>
+
+  <GFM_WPPatrolBeta.label>パトロール：ベータ</GFM_WPPatrolBeta.label>
+  <GFM_WPPatrolBeta.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolBeta.description>
+  <Blueprint_GFM_WPPatrolBeta.label>パトロール：ベータ(設計)</Blueprint_GFM_WPPatrolBeta.label>
+  <Frame_GFM_WPPatrolBeta.label>パトロール：ベータ(施行)</Frame_GFM_WPPatrolBeta.label>
+  <Frame_GFM_WPPatrolBeta.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolBeta.description>
+
+  <GFM_WPPatrolGamma.label>パトロール：ガンマ</GFM_WPPatrolGamma.label>
+  <GFM_WPPatrolGamma.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolGamma.description>
+  <Blueprint_GFM_WPPatrolGamma.label>パトロール：ガンマ(設計)</Blueprint_GFM_WPPatrolGamma.label>
+  <Frame_GFM_WPPatrolGamma.label>パトロール：ガンマ(施行)</Frame_GFM_WPPatrolGamma.label>
+  <Frame_GFM_WPPatrolGamma.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolGamma.description>
+
+  <GFM_WPPatrolDelta.label>パトロール：デルタ</GFM_WPPatrolDelta.label>
+  <GFM_WPPatrolDelta.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolDelta.description>
+  <Blueprint_GFM_WPPatrolDelta.label>パトロール：デルタ(設計)</Blueprint_GFM_WPPatrolDelta.label>
+  <Frame_GFM_WPPatrolDelta.label>パトロール：デルタ(施行)</Frame_GFM_WPPatrolDelta.label>
+  <Frame_GFM_WPPatrolDelta.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolDelta.description>
+
+  <GFM_WPPatrolEpsilon.label>パトロール：イプシロン</GFM_WPPatrolEpsilon.label>
+  <GFM_WPPatrolEpsilon.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolEpsilon.description>
+  <Blueprint_GFM_WPPatrolEpsilon.label>パトロール：イプシロン(設計)</Blueprint_GFM_WPPatrolEpsilon.label>
+  <Frame_GFM_WPPatrolEpsilon.label>パトロール：イプシロン(施行)</Frame_GFM_WPPatrolEpsilon.label>
+  <Frame_GFM_WPPatrolEpsilon.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolEpsilon.description>
+
+  <GFM_WPPatrolZeta.label>パトロール：ゼータ</GFM_WPPatrolZeta.label>
+  <GFM_WPPatrolZeta.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolZeta.description>
+  <Blueprint_GFM_WPPatrolZeta.label>パトロール：ゼータ(設計)</Blueprint_GFM_WPPatrolZeta.label>
+  <Frame_GFM_WPPatrolZeta.label>パトロール：ゼータ(施行)</Frame_GFM_WPPatrolZeta.label>
+  <Frame_GFM_WPPatrolZeta.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolZeta.description>
+
+  <GFM_WPPatrolEta.label>パトロール：イータ</GFM_WPPatrolEta.label>
+  <GFM_WPPatrolEta.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolEta.description>
+  <Blueprint_GFM_WPPatrolEta.label>パトロール：イータ(設計)</Blueprint_GFM_WPPatrolEta.label>
+  <Frame_GFM_WPPatrolEta.label>パトロール：イータ(施行)</Frame_GFM_WPPatrolEta.label>
+  <Frame_GFM_WPPatrolEta.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolEta.description>
+
+  <GFM_WPPatrolTheta.label>パトロール：シータ</GFM_WPPatrolTheta.label>
+  <GFM_WPPatrolTheta.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolTheta.description>
+  <Blueprint_GFM_WPPatrolTheta.label>パトロール：シータ(設計)</Blueprint_GFM_WPPatrolTheta.label>
+  <Frame_GFM_WPPatrolTheta.label>パトロール：シータ(施行)</Frame_GFM_WPPatrolTheta.label>
+  <Frame_GFM_WPPatrolTheta.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolTheta.description>
+
+  <GFM_WPPatrolIota.label>パトロール：イオタ</GFM_WPPatrolIota.label>
+  <GFM_WPPatrolIota.description>パトロール経路の作製に使用する経由地点です</GFM_WPPatrolIota.description>
+  <Blueprint_GFM_WPPatrolIota.label>パトロール：イオタ(設計)</Blueprint_GFM_WPPatrolIota.label>
+  <Frame_GFM_WPPatrolIota.label>パトロール：イオタ(施行)</Frame_GFM_WPPatrolIota.label>
+  <Frame_GFM_WPPatrolIota.description>パトロール経路の作製に使用する経由地点です</Frame_GFM_WPPatrolIota.description>
+
+</LanguageData>

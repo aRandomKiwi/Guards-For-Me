@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GFM_Guard.label>警備</GFM_Guard.label>
+  <GFM_Guard.description>警備地点や警護対象を警備したり巡回を行います。</GFM_Guard.description>
+  <GFM_Guard.labelShort>警備</GFM_Guard.labelShort>
+  <GFM_Guard.pawnLabel>警備兵</GFM_Guard.pawnLabel>
+  <GFM_Guard.gerundLabel>警備</GFM_Guard.gerundLabel>
+  <GFM_Guard.verb>警備中</GFM_Guard.verb>
+
+</LanguageData>

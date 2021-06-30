@@ -1,0 +1,16 @@
+C:\Users\kiwi\Desktop\Dev RMMods\Guard For Me\obj\Debug\GuardsForMe.csproj.CoreCompileInputs.cache
+C:\Users\kiwi\Desktop\Dev RMMods\Guard For Me\obj\Debug\GuardsForMe.csproj.CopyComplete
+C:\Users\kiwi\Desktop\Dev RMMods\Guard For Me\obj\Debug\GuardsForMe.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Guards For Me\1.0\Assemblies\GuardsForMe.dll
+C:\Users\kiwi\Desktop\Dev RMMods\Guards For Me\obj\Debug\GuardsForMe.csproj.CoreCompileInputs.cache
+C:\Users\kiwi\Desktop\Dev RMMods\Guards For Me\obj\Debug\GuardsForMe.csproj.CopyComplete
+C:\Users\kiwi\Desktop\Dev RMMods\Guards For Me\obj\Debug\GuardsForMe.dll
+C:\Users\kiwi\Desktop\Dev RMMods\Guards For Me\obj\Debug\GuardsForMe.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Guards For Me\1.1\Assemblies\GuardsForMe.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Guards For Me\1.2\Assemblies\GuardsForMe.dll
+C:\Users\kiwi\Desktop\Dev RMModsV1.1\Guards For Me\obj\Debug\GuardsForMe.csproj.CoreCompileInputs.cache
+C:\Users\kiwi\Desktop\Dev RMModsV1.1\Guards For Me\obj\Debug\GuardsForMe.dll
+C:\Users\kiwi\Desktop\Dev RMModsV1.1\Guards For Me\obj\Debug\GuardsForMe.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Guards For Me\Source\obj\Debug\GuardsForMe.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Guards For Me\Source\obj\Debug\GuardsForMe.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Guards For Me\Source\obj\Debug\GuardsForMe.dll

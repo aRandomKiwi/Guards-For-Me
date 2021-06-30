@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <WorkGiverDef>
+    <defName>GFM_DoStandguard</defName>
+    <label>guarding area</label>
+    <giverClass>aRandomKiwi.GFM.WorkGiver_Standguard</giverClass>
+    <workType>GFM_Guard</workType>
+    <verb>guarding area</verb>
+    <gerund>guarding area</gerund>
+    <priorityInType>110</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>GFM_DoPatrolGuard</defName>
+    <label>patroling</label>
+    <giverClass>aRandomKiwi.GFM.WorkGiver_Patroling</giverClass>
+    <workType>GFM_Guard</workType>
+    <verb>patroling path</verb>
+    <gerund>patroling path</gerund>
+    <priorityInType>115</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>GFM_DoBodyGuard</defName>
+    <label>protect vip</label>
+    <giverClass>aRandomKiwi.GFM.WorkGiver_Bodyguard</giverClass>
+    <workType>GFM_Guard</workType>
+    <verb>protect a vip</verb>
+    <gerund>protect a vip</gerund>
+    <priorityInType>135</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>GFM_DoDeathSquad</defName>
+    <label>search and kill</label>
+    <giverClass>aRandomKiwi.GFM.WorkGiver_DeathSquad</giverClass>
+    <workType>GFM_Guard</workType>
+    <verb>search and kill</verb>
+    <gerund>search and kill</gerund>
+    <priorityInType>136</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+</Defs>

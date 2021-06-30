@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GFM_DoStandguard.label>周辺の警備</GFM_DoStandguard.label>
+  <GFM_DoStandguard.verb>周辺警備</GFM_DoStandguard.verb>
+  <GFM_DoStandguard.gerund>を周辺警備する</GFM_DoStandguard.gerund>
+
+  <GFM_DoPatrolGuard.label>巡回して警備</GFM_DoPatrolGuard.label>
+  <GFM_DoPatrolGuard.verb>巡回</GFM_DoPatrolGuard.verb>
+  <GFM_DoPatrolGuard.gerund>を巡回警備する</GFM_DoPatrolGuard.gerund>
+
+  <GFM_DoBodyGuard.label>VIPを警護</GFM_DoBodyGuard.label>
+  <GFM_DoBodyGuard.verb>VIP警護</GFM_DoBodyGuard.verb>
+  <GFM_DoBodyGuard.gerund>を警護する</GFM_DoBodyGuard.gerund>
+
+  <GFM_DoDeathSquad.label>巡回して攻撃</GFM_DoDeathSquad.label>
+  <GFM_DoDeathSquad.verb>巡回と攻撃</GFM_DoDeathSquad.verb>
+  <GFM_DoDeathSquad.gerund>を巡回して攻撃する</GFM_DoDeathSquad.gerund>
+
+</LanguageData>

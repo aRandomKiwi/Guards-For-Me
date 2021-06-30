@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<GFM_GuardSpot.label>Guard spot</GFM_GuardSpot.label>
+	<GFM_GuardSpot.description>An area where guards are standing</GFM_GuardSpot.description>
+	
+	
+	<GFM_WPPatrolAlpha.label>Black patrol</GFM_WPPatrolAlpha.label>
+	<GFM_WPPatrolAlpha.description>a waypoint used to form a patrol path</GFM_WPPatrolAlpha.description>
+	<GFM_WPPatrolBeta.label>Red patrol</GFM_WPPatrolBeta.label>
+	<GFM_WPPatrolBeta.description>a waypoint used to form a patrol path</GFM_WPPatrolBeta.description>
+	<GFM_WPPatrolGamma.label>Orange patrol</GFM_WPPatrolGamma.label>
+	<GFM_WPPatrolGamma.description>a waypoint used to form a patrol path</GFM_WPPatrolGamma.description>
+	<GFM_WPPatrolDelta.label>Yellow patrol</GFM_WPPatrolDelta.label>
+	<GFM_WPPatrolDelta.description>a waypoint used to form a patrol path</GFM_WPPatrolDelta.description>
+	<GFM_WPPatrolEpsilon.label>Green patrol</GFM_WPPatrolEpsilon.label>
+	<GFM_WPPatrolEpsilon.description>a waypoint used to form a patrol path</GFM_WPPatrolEpsilon.description>
+	<GFM_WPPatrolZeta.label>Blue patrol</GFM_WPPatrolZeta.label>
+	<GFM_WPPatrolZeta.description>a waypoint used to form a patrol path</GFM_WPPatrolZeta.description>
+	<GFM_WPPatrolEta.label>Purple patrol</GFM_WPPatrolEta.label>
+	<GFM_WPPatrolEta.description>a waypoint used to form a patrol path</GFM_WPPatrolEta.description>
+	<GFM_WPPatrolTheta.label>Pink patrol</GFM_WPPatrolTheta.label>
+	<GFM_WPPatrolTheta.description>a waypoint used to form a patrol path</GFM_WPPatrolTheta.description>
+	<GFM_WPPatrolIota.label>Gray patrol</GFM_WPPatrolIota.label>
+	<GFM_WPPatrolIota.description>a waypoint used to form a patrol path</GFM_WPPatrolIota.description>
+	
+	<GFM_GuardSpot.label>Black guard spot</GFM_GuardSpot.label>
+	<GFM_GuardSpot.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpot.description>
+	<GFM_GuardSpotRed.label>Red guard spot</GFM_GuardSpotRed.label>
+	<GFM_GuardSpotRed.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotRed.description>
+	<GFM_GuardSpotOrange.label>Orange guard spot</GFM_GuardSpotOrange.label>
+	<GFM_GuardSpotOrange.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotOrange.description>
+	<GFM_GuardSpotYellow.label>Yellow guard spot</GFM_GuardSpotYellow.label>
+	<GFM_GuardSpotYellow.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotYellow.description>
+	<GFM_GuardSpotGreen.label>Green guard spot</GFM_GuardSpotGreen.label>
+	<GFM_GuardSpotGreen.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotGreen.description>
+	<GFM_GuardSpotBlue.label>Blue guard spot</GFM_GuardSpotBlue.label>
+	<GFM_GuardSpotBlue.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotBlue.description>
+	<GFM_GuardSpotPurple.label>Purple guard spot</GFM_GuardSpotPurple.label>
+	<GFM_GuardSpotPurple.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotPurple.description>
+	<GFM_GuardSpotPink.label>Pink guard spot</GFM_GuardSpotPink.label>
+	<GFM_GuardSpotPink.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotPink.description>
+	<GFM_GuardSpotGray.label>Gray guard spot</GFM_GuardSpotGray.label>
+	<GFM_GuardSpotGray.description>Designates a spot on the ground where guards should guard.</GFM_GuardSpotGray.description>
+</LanguageData>

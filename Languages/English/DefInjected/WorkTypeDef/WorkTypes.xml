@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GFM_Guard.label>Guard</GFM_Guard.label>
+  <GFM_Guard.description>Guard area, patrol and protect VIP colonists</GFM_Guard.description>
+  <GFM_Guard.gerundLabel>Guarding</GFM_Guard.gerundLabel>
+  <GFM_Guard.labelShort>Guard</GFM_Guard.labelShort>
+  <GFM_Guard.pawnLabel>Guard</GFM_Guard.pawnLabel>
+  <GFM_Guard.verb>Guarding</GFM_Guard.verb>
+  
+</LanguageData>
