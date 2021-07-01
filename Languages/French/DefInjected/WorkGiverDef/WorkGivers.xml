@@ -5,11 +5,11 @@
 	<GFM_DoStandguard.verb>Garder une zone</GFM_DoStandguard.verb>
 
 	<GFM_DoPatrolGuard.Label>Patrouiller</GFM_DoPatrolGuard.Label>
-	<GFM_DoPatrolGuard.gerund>patrouille sur un chemin</GFM_DoPatrolGuard.gerund>
+	<GFM_DoPatrolGuard.gerund>patrouille</GFM_DoPatrolGuard.gerund>
 	<GFM_DoPatrolGuard.verb>Patrouiller</GFM_DoPatrolGuard.verb>
 
 	<GFM_DoBodyGuard.Label>Protéger un VIP</GFM_DoBodyGuard.Label>
-	<GFM_DoBodyGuard.gerund>protége un VIP</GFM_DoBodyGuard.gerund>
+	<GFM_DoBodyGuard.gerund>protège un VIP</GFM_DoBodyGuard.gerund>
 	<GFM_DoBodyGuard.verb>Protéger un VIP</GFM_DoBodyGuard.verb>
 	
 	<GFM_DoDeathSquad.Label>Patrouiller et éliminer</GFM_DoDeathSquad.Label>

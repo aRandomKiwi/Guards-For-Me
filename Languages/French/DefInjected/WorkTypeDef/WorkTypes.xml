@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <GFM_Guard.label>Guarde</GFM_Guard.label>
+  <GFM_Guard.label>Garder</GFM_Guard.label>
   <GFM_Guard.description>Garder des zones, patrouiller et protéger des colons VIP</GFM_Guard.description>
-  <GFM_Guard.gerundLabel>Guarder</GFM_Guard.gerundLabel>
-  <GFM_Guard.labelShort>Guarde</GFM_Guard.labelShort>
-  <GFM_Guard.pawnLabel>Guarde</GFM_Guard.pawnLabel>
-  <GFM_Guard.verb>Guarder</GFM_Guard.verb>
+  <GFM_Guard.gerundLabel>Garde</GFM_Guard.gerundLabel>
+  <GFM_Guard.labelShort>Garder</GFM_Guard.labelShort>
+  <GFM_Guard.pawnLabel>Garde</GFM_Guard.pawnLabel>
+  <GFM_Guard.verb>Garder</GFM_Guard.verb>
   
 </LanguageData>
