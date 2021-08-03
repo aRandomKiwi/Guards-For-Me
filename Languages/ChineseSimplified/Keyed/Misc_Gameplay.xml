@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GFM_DesignatorNeedSelectValidThreat>你需要选择一个有效威胁</GFM_DesignatorNeedSelectValidThreat>
+  <GFM_DoStandguard>保卫一片区域</GFM_DoStandguard>
+  <GFM_DoPatrolGuard>沿一条路径巡逻</GFM_DoPatrolGuard>
+  <GFM_DoBodyGuard>保护一名VIP</GFM_DoBodyGuard>
+  <GFM_DoDeathSquad>巡逻与歼灭</GFM_DoDeathSquad>
+  <GFM_GuardSpotDirLeft>左</GFM_GuardSpotDirLeft>
+  <GFM_GuardSpotDirRight>右</GFM_GuardSpotDirRight>
+  <GFM_GuardSpotDirTop>上</GFM_GuardSpotDirTop>
+  <GFM_GuardSpotDirBottom>下</GFM_GuardSpotDirBottom>
+  <GFM_patrolAlpha>黑色巡逻线</GFM_patrolAlpha>
+  <GFM_patrolBeta>红色巡逻线</GFM_patrolBeta>
+  <GFM_patrolGamma>桔色巡逻线</GFM_patrolGamma>
+  <GFM_patrolDelta>黄色巡逻线</GFM_patrolDelta>
+  <GFM_patrolEpsilon>绿色巡逻线</GFM_patrolEpsilon>
+  <GFM_patrolZeta>蓝色巡逻线</GFM_patrolZeta>
+  <GFM_patrolEta>紫色巡逻线</GFM_patrolEta>
+  <GFM_patrolTheta>粉色巡逻线</GFM_patrolTheta>
+  <GFM_patrolIota>灰色巡逻线</GFM_patrolIota>
+  <GFM_patrol>巡逻</GFM_patrol>
+  <GFM_GuardSpot>黑色岗哨点</GFM_GuardSpot>
+  <GFM_GuardSpotRed>红色岗哨点</GFM_GuardSpotRed>
+  <GFM_GuardSpotOrange>桔色岗哨点</GFM_GuardSpotOrange>
+  <GFM_GuardSpotYellow>黄色岗哨点</GFM_GuardSpotYellow>
+  <GFM_GuardSpotGreen>绿色岗哨点</GFM_GuardSpotGreen>
+  <GFM_GuardSpotBlue>蓝色岗哨点</GFM_GuardSpotBlue>
+  <GFM_GuardSpotPurple>紫色岗哨点</GFM_GuardSpotPurple>
+  <GFM_GuardSpotPink>粉色岗哨点</GFM_GuardSpotPink>
+  <GFM_GuardSpotGray>灰色岗哨点</GFM_GuardSpotGray>
+  <GFM_GuardMode>安保模式</GFM_GuardMode>
+  <GFM_GuardModeDesc>允许单位自动分配至岗哨点</GFM_GuardModeDesc>
+  <GFM_GuardSpotAffectedPawn>受影响的保安：{0}</GFM_GuardSpotAffectedPawn>
+  <GFM_GuardSpotClearAffectedPawn>取消岗位预留</GFM_GuardSpotClearAffectedPawn>
+  <GFM_GuardSpotAffectGuard>强制安保</GFM_GuardSpotAffectGuard>
+  <GFM_GuardSpotAffectGuardDesc>为该岗哨点预留一名保安</GFM_GuardSpotAffectGuardDesc>
+  <GFM_GuardAttackOnlyNearThreats>仅附近威胁</GFM_GuardAttackOnlyNearThreats>
+  <GFM_GuardAttackOnlyNearThreatsDesc>若启用，这允许你单独指定近战保镖。</GFM_GuardAttackOnlyNearThreatsDesc>
+  <GFM_GuardStopAll>停止全部保镖</GFM_GuardStopAll>
+  <GFM_GuardStopAllDesc>允许所有保镖停止对该单位的保护。</GFM_GuardStopAllDesc>
+  <GFM_GuardStop>停止保镖</GFM_GuardStop>
+  <GFM_GuardStopDesc>允许指定保镖停止对该单位的保护。</GFM_GuardStopDesc>
+  <GFM_Guard>保护单位</GFM_Guard>
+  <GFM_GuardDesc>允许你向佣兵指定需要保护的单位。这会让他们跟随并保护该单位。</GFM_GuardDesc>
+  <GFM_PatrolAndKill>反应部队</GFM_PatrolAndKill>
+  <GFM_PatrolAndKillDesc>允许该单位自动搜索和歼灭地图上的每一个威胁。</GFM_PatrolAndKillDesc>
+  <GFM_DeathSquadForceTarget>强制瞄准</GFM_DeathSquadForceTarget>
+  <GFM_AlertWaypointsInfo>按下'DEL'移除巡逻线</GFM_AlertWaypointsInfo>
+  <GFM_AlertWaypointsInfoDesc>按下'DEL'移除当前选中巡逻线的全部路径点</GFM_AlertWaypointsInfoDesc>
+  <GFM_AlertWaypointsInfo2>按下'Backspace'移除上一个路径点</GFM_AlertWaypointsInfo2>
+  <GFM_AlertWaypointsInfo2Desc>按下'Backspace'移除最新放置的路径点</GFM_AlertWaypointsInfo2Desc>
+  <GFM_MsgPatrolDestroyed>当前巡逻路径已删除</GFM_MsgPatrolDestroyed>
+  <GFM_MsgPatrolLastWaypointDestroyed>最新放置的路径点已删除</GFM_MsgPatrolLastWaypointDestroyed>
+  <GFM_BodyGuardCantReachVIP>无法分配VIP {0} 给 {1} (保镖无法接近VIP)</GFM_BodyGuardCantReachVIP>
+  <GFM_SettingsSectionGeneral>全局：</GFM_SettingsSectionGeneral>
+  <GFM_SettingsEndPathMode>当一名保安抵达巡逻路径终点：</GFM_SettingsEndPathMode>
+  <GFM_SettingsEndPathMode1>反向巡逻(A-B-C-B-A)</GFM_SettingsEndPathMode1>
+  <GFM_SettingsEndPathMode2>前往第一个路径点(A-B-C-A)</GFM_SettingsEndPathMode2>
+  <GFM_SettingsJobStop>停止工作</GFM_SettingsJobStop>
+  <GFM_SettingsMoodMinimumThresholdStopJob>最低情绪阈值 ({0}%)</GFM_SettingsMoodMinimumThresholdStopJob>
+  <GFM_SettingsJoyMinimumThresholdStopJob>最低娱乐阈值 ({0}%)</GFM_SettingsJoyMinimumThresholdStopJob>
+  <GFM_SettingsFoodMinimumThresholdStopJob>最低饥饿阈值 ({0}%)</GFM_SettingsFoodMinimumThresholdStopJob>
+  <GFM_SettingsRestMinimumThresholdStopJob>最低休息阈值 ({0}%)</GFM_SettingsRestMinimumThresholdStopJob>
+  <GFM_SettingsBladderMinimumThresholdStopJob>最低排泄阈值 (Dubs bad Hygiene mod) ({0}%)</GFM_SettingsBladderMinimumThresholdStopJob>
+  <GFM_SettingsHygieneMinimumThresholdStopJob>最低卫生阈值 (Dubs bad Hygiene mod) ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
+  <GFM_SettingsPatrolWalkMode>巡逻速度模式</GFM_SettingsPatrolWalkMode>
+  <GFM_SettingsPatrolWalkModeWalk>行走</GFM_SettingsPatrolWalkModeWalk>
+  <GFM_SettingsPatrolWalkModeJog>慢跑</GFM_SettingsPatrolWalkModeJog>
+  <GFM_SettingsPatrolWalkModeSprint>冲刺</GFM_SettingsPatrolWalkModeSprint>
+  <GFM_SettingsHideIcon>隐藏图标</GFM_SettingsHideIcon>
+  <GFM_SettingsHideGuardSpot>隐藏哨戒点</GFM_SettingsHideGuardSpot>
+  <GFM_SettingsGuardAsJob>将"保安"功能作为职业显示</GFM_SettingsGuardAsJob>
+  <GFM_SettingsStandGuardAreFixed>站岗者在攻击时不离开岗位 (仅限远程攻击)</GFM_SettingsStandGuardAreFixed>
+  <GFM_SettingsDisableJobDisplay>禁用在检查窗格中显示已完成的保安工作</GFM_SettingsDisableJobDisplay>
+  <GFM_SettingsExterminatorGuard>启用歼灭者模式 (保安会主动消灭野生动物)</GFM_SettingsExterminatorGuard>
+  <GFM_SettingsColonistTitleUnderName>在殖民者姓名下方显示其头衔</GFM_SettingsColonistTitleUnderName>
+  <GFM_SettingsMeleeAttackRadiusSpot>近战保安对敌警戒半径 ( {0} )</GFM_SettingsMeleeAttackRadiusSpot>
+  <GFM_SettingsStandingGuardMaxDistanceWithGS>站岗者被迫返回岗位前可离开的最大距离 ({0})</GFM_SettingsStandingGuardMaxDistanceWithGS>
+  <GFM_SettingsAutoUnforbidThreatsKilledByGuards>自动解禁由保安消灭的敌军遗体</GFM_SettingsAutoUnforbidThreatsKilledByGuards>
+  <GFM_SettingsKillDownedThreats>歼灭倒地的敌人</GFM_SettingsKillDownedThreats>
+  <GFM_SettingsHideStandGuardButton>隐藏站岗按钮</GFM_SettingsHideStandGuardButton>
+  <GFM_SettingsHidePatrolButton>隐藏巡逻按钮</GFM_SettingsHidePatrolButton>
+  <GFM_SettingsHideBodyguardButton>隐藏保镖按钮</GFM_SettingsHideBodyguardButton>
+  <GFM_SettingsHideReactionForceButton>隐藏反应部队按钮</GFM_SettingsHideReactionForceButton>
+</LanguageData>
