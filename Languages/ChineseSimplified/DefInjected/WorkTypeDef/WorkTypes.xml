@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GFM_Guard.label>保安</GFM_Guard.label>
+  <GFM_Guard.description>保安职业</GFM_Guard.description>
+  <GFM_Guard.gerundLabel>安保中</GFM_Guard.gerundLabel>
+  <GFM_Guard.labelShort>保安</GFM_Guard.labelShort>
+  <GFM_Guard.pawnLabel>保安</GFM_Guard.pawnLabel>
+  <GFM_Guard.verb>安保中</GFM_Guard.verb>
+</LanguageData>
