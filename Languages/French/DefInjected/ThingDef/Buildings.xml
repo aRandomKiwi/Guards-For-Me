@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<GFM_GuardSpot.label>Lieu de garde</GFM_GuardSpot.label>
-	<GFM_GuardSpot.description>Un endroit où les gardes surveille la zone</GFM_GuardSpot.description>
+	<GFM_GuardSpot.label>Poste de garde</GFM_GuardSpot.label>
+	<GFM_GuardSpot.description>Un endroit où les gardes surveillent la zone</GFM_GuardSpot.description>
 	
 	<GFM_WPPatrolAlpha.label>Patrouille Noire</GFM_WPPatrolAlpha.label>
-	<GFM_WPPatrolAlpha.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolAlpha.description>
+	<GFM_WPPatrolAlpha.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolAlpha.description>
 	<GFM_WPPatrolBeta.label>Patrouille Rouge</GFM_WPPatrolBeta.label>
-	<GFM_WPPatrolBeta.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolBeta.description>
+	<GFM_WPPatrolBeta.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolBeta.description>
 	<GFM_WPPatrolGamma.label>Patrouille Orange</GFM_WPPatrolGamma.label>
-	<GFM_WPPatrolGamma.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolGamma.description>
+	<GFM_WPPatrolGamma.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolGamma.description>
 	<GFM_WPPatrolDelta.label>Patrouille Jaune</GFM_WPPatrolDelta.label>
-	<GFM_WPPatrolDelta.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolDelta.description>
+	<GFM_WPPatrolDelta.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolDelta.description>
 	<GFM_WPPatrolEpsilon.label>Patrouille Verte</GFM_WPPatrolEpsilon.label>
-	<GFM_WPPatrolEpsilon.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolEpsilon.description>
+	<GFM_WPPatrolEpsilon.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolEpsilon.description>
 	<GFM_WPPatrolZeta.label>Patrouille Bleue</GFM_WPPatrolZeta.label>
-	<GFM_WPPatrolZeta.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolZeta.description>
+	<GFM_WPPatrolZeta.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolZeta.description>
 	<GFM_WPPatrolEta.label>Patrouille Violette</GFM_WPPatrolEta.label>
-	<GFM_WPPatrolEta.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolEta.description>
+	<GFM_WPPatrolEta.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolEta.description>
 	<GFM_WPPatrolTheta.label>Patrouille Rose</GFM_WPPatrolTheta.label>
-	<GFM_WPPatrolTheta.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolTheta.description>
+	<GFM_WPPatrolTheta.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolTheta.description>
 	<GFM_WPPatrolIota.label>Patrouille Grise</GFM_WPPatrolIota.label>
-	<GFM_WPPatrolIota.description>un waypoint utilisé pour former un chemin de patrouille</GFM_WPPatrolIota.description>
+	<GFM_WPPatrolIota.description>un point de patrouille utilisé pour former un chemin de patrouille</GFM_WPPatrolIota.description>
 	
-	<GFM_GuardSpot.label>Lieu de garde noir</GFM_GuardSpot.label>
-	<GFM_GuardSpot.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpot.description>
-	<GFM_GuardSpotRed.label>Lieu de garde rouge</GFM_GuardSpotRed.label>
-	<GFM_GuardSpotRed.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotRed.description>
-	<GFM_GuardSpotOrange.label>Lieu de garde Orange</GFM_GuardSpotOrange.label>
-	<GFM_GuardSpotOrange.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotOrange.description>
-	<GFM_GuardSpotYellow.label>Lieu de garde jaune</GFM_GuardSpotYellow.label>
-	<GFM_GuardSpotYellow.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotYellow.description>
-	<GFM_GuardSpotGreen.label>Lieu de garde vert</GFM_GuardSpotGreen.label>
-	<GFM_GuardSpotGreen.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotGreen.description>
-	<GFM_GuardSpotBlue.label>Lieu de garde bleu</GFM_GuardSpotBlue.label>
-	<GFM_GuardSpotBlue.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotBlue.description>
-	<GFM_GuardSpotPurple.label>Lieu de garde violet</GFM_GuardSpotPurple.label>
-	<GFM_GuardSpotPurple.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotPurple.description>
-	<GFM_GuardSpotPink.label>Lieu de garde rose</GFM_GuardSpotPink.label>
-	<GFM_GuardSpotPink.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotPink.description>
-	<GFM_GuardSpotGray.label>Lieu de garde gris</GFM_GuardSpotGray.label>
-	<GFM_GuardSpotGray.description>Un endroit où les gardes surveille la zone.</GFM_GuardSpotGray.description>
+	<GFM_GuardSpot.label>Poste de garde noir</GFM_GuardSpot.label>
+	<GFM_GuardSpot.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpot.description>
+	<GFM_GuardSpotRed.label>Poste de garde rouge</GFM_GuardSpotRed.label>
+	<GFM_GuardSpotRed.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotRed.description>
+	<GFM_GuardSpotOrange.label>Poste de garde Orange</GFM_GuardSpotOrange.label>
+	<GFM_GuardSpotOrange.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotOrange.description>
+	<GFM_GuardSpotYellow.label>Poste de garde jaune</GFM_GuardSpotYellow.label>
+	<GFM_GuardSpotYellow.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotYellow.description>
+	<GFM_GuardSpotGreen.label>Poste de garde vert</GFM_GuardSpotGreen.label>
+	<GFM_GuardSpotGreen.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotGreen.description>
+	<GFM_GuardSpotBlue.label>Poste de garde bleu</GFM_GuardSpotBlue.label>
+	<GFM_GuardSpotBlue.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotBlue.description>
+	<GFM_GuardSpotPurple.label>Poste de garde violet</GFM_GuardSpotPurple.label>
+	<GFM_GuardSpotPurple.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotPurple.description>
+	<GFM_GuardSpotPink.label>Poste de garde rose</GFM_GuardSpotPink.label>
+	<GFM_GuardSpotPink.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotPink.description>
+	<GFM_GuardSpotGray.label>Poste de garde gris</GFM_GuardSpotGray.label>
+	<GFM_GuardSpotGray.description>Un endroit où les gardes surveillent la zone.</GFM_GuardSpotGray.description>
 </LanguageData>
