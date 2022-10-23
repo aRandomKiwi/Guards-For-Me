@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<WorkTypeDef>
+        <defName>GFM_Guard</defName>
+        <labelShort>Guard</labelShort>
+        <pawnLabel>Guard</pawnLabel>
+        <gerundLabel>guarding</gerundLabel>
+        <description>Guard job</description>
+        <verb>guarding</verb>
+        <naturalPriority>11</naturalPriority>
+        <relevantSkills>
+            <li>Shooting</li>
+            <li>Melee</li>
+        </relevantSkills>
+        <workTags>
+            <li>Violent</li>
+        </workTags>
+    </WorkTypeDef>
+</Defs>

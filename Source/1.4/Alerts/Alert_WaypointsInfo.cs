@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using Verse;
+using RimWorld;
+using RimWorld.Planet;
+using UnityEngine;
+using System.Linq;
+
+namespace aRandomKiwi.GFM
+{
+    public class Alert_WaypointsInfo : Alert
+    {
+        public Alert_WaypointsInfo()
+        {
+            this.defaultLabel = "GFM_AlertWaypointsInfo".Translate();
+            this.defaultExplanation = "GFM_AlertWaypointsInfoDesc".Translate();
+            //this.defaultExplanation = "KFM_AlertNoRallyZoneDesc".Translate();
+            this.defaultPriority = AlertPriority.Critical;
+        }
+
+        protected override Color BGColor
+        {
+            get
+            {
+                float num = Pulser.PulseBrightness(0.5f, Pulser.PulseBrightness(0.5f, 0.6f));
+                return new Color(num, num, num) * color;
+            }
+        }
+
+
+        public override AlertReport GetReport()
+        {
+            if (Find.CurrentMap != null && Find.DesignatorManager.SelectedDesignator != null && Find.DesignatorManager.SelectedDesignator is Designator_Build)
+            {
+                //If waypoint selector selected, display of waypoints
+                Designator_Build sel = (Designator_Build)Find.DesignatorManager.SelectedDesignator;
+                if (Utils.waypointsDefName.Contains(sel.PlacingDef.defName))
+                    return true;
+                else
+                    return false;
+            }
+            return false;
+        }
+
+        Color color = new Color(0.203f, 0.596f, 0.858f, 1.0f);
+    }
+}

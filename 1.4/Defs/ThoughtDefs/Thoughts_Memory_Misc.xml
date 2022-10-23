@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+   	<ThoughtDef>
+		<defName>GFM_SawGuard</defName>
+		<icon>Thoughts/SawGuard</icon>
+		<showBubble>true</showBubble>
+		<durationDays>0.5</durationDays>
+		<stackLimit>2</stackLimit>
+		<stackedEffectMultiplier>1</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>saw a guard</label>
+				<description>I have seen a guard, i feel safe</description>
+				<baseMoodEffect>2</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>
