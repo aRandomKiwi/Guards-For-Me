@@ -29,7 +29,7 @@
 	</Operation>
 	
 	<Operation Class="PatchOperationInsert">
-        <xpath>Defs/ThinkTreeDef[defName = "Humanlike" or defName = "AndroidLike" or defName = "AIPawn" or defName = "MechM7Like" or defName = "Hiverlike"]/thinkRoot/subNodes/li[@Class="ThinkNode_SubtreesByTag" and insertTag="Humanlike_PreMain"]</xpath>
+        <xpath>Defs/ThinkTreeDef[defName = "Humanlike" or defName = "AndroidLike" or defName = "AIPawn" or defName = "MechM7Like" or defName = "Hiverlike" or defName = "Syntheticlike"]/thinkRoot/subNodes/li[@Class="ThinkNode_SubtreesByTag" and insertTag="Humanlike_PreMain"]</xpath>
         <value>
 		    <li Class="ThinkNode_ConditionalColonist">
                 <subNodes>
