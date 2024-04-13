@@ -239,8 +239,9 @@ namespace aRandomKiwi.GFM
 
                         guardJobOK = 2;
                         ThinkTreeDef thinkTree = null;
+                        bool ignoreQueue = false;
                         MethodInfo mi = AccessTools.Method(typeof(Pawn_JobTracker), "DetermineNextJob");
-                        ThinkResult thinkResult = (ThinkResult)mi.Invoke(pawn.jobs, new object[] { thinkTree });
+                        ThinkResult thinkResult = (ThinkResult)mi.Invoke(pawn.jobs, new object[] { thinkTree, ignoreQueue });
 
                         //Offer not confirmed
                         if (guardJobOK == 3)
