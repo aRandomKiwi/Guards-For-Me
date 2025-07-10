@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<DesignatorDropdownGroupDef>
+		<defName>GFM_PatrolBase_aRandomKiwi</defName>
+	</DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+		<defName>GFM_GuardSpotBase_aRandomKiwi</defName>
+	</DesignatorDropdownGroupDef>
+	
+  	<ThingDef ParentName="BuildingBase" Name="GFM_GuardSpotBase" Abstract="True">
+		<thingClass>aRandomKiwi.GFM.Building_GuardSpot</thingClass>
+		<label>a guard spot</label>
+		<description>Designates a spot on the ground where guards should guard.</description>
+		<size>(1,1)</size>
+		<passability>Standable</passability>
+		<designationCategory>Security</designationCategory>
+		<designatorDropdown>GFM_GuardSpotBase_aRandomKiwi</designatorDropdown>
+		<scatterableOnMapGen>false</scatterableOnMapGen>
+		<useHitPoints>False</useHitPoints>
+		<drawerType>RealtimeOnly</drawerType>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<terrainAffordanceNeeded></terrainAffordanceNeeded>
+		<costList>
+		</costList>
+		<rotatable>false</rotatable>
+		<graphicData>
+				<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<uiIconScale>0.80</uiIconScale>
+		<statBases>
+			<WorkToBuild>0</WorkToBuild>
+		</statBases>
+		<building>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+			<sowTag>SupportPlantsOnly</sowTag>
+			<canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+			<ai_chillDestination>false</ai_chillDestination>
+			<artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+		</building>
+	</ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpot</defName>
+	<label>Black Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpot</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotRed</defName>
+	<label>Red Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotRed</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotOrange</defName>
+	<label>Orange Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotOrange</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotYellow</defName>
+	<label>Yellow Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotYellow</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotGreen</defName>
+	<label>Green Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotGreen</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotBlue</defName>
+	<label>Blue Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotBlue</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotPurple</defName>
+	<label>Purple Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotPurple</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotPink</defName>
+	<label>Pink Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotPink</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_GuardSpotBase">
+	<defName>GFM_GuardSpotGray</defName>
+	<label>Gray Guard Spot</label>
+	<graphicData>
+		<texPath>Building/GFM_GuardSpotGray</texPath>
+	</graphicData>
+  </ThingDef>
+  
+    <ThingDef ParentName="BuildingBase" Name="GFM_PatrolBase" Abstract="True">
+		<thingClass>aRandomKiwi.GFM.Building_PatrolWaypoint</thingClass>
+		<description>a waypoint used to form a patrol path</description>
+		<size>(1,1)</size>
+		<passability>Standable</passability>
+		<designationCategory>Security</designationCategory>
+		<designatorDropdown>GFM_PatrolBase_aRandomKiwi</designatorDropdown>
+		<scatterableOnMapGen>false</scatterableOnMapGen>
+		<useHitPoints>False</useHitPoints>
+		<altitudeLayer>Building</altitudeLayer>
+		<drawGUIOverlay>True</drawGUIOverlay>
+		<drawerType>RealtimeOnly</drawerType>
+		<terrainAffordanceNeeded></terrainAffordanceNeeded>
+    <rotatable>false</rotatable>
+	<costList>
+		</costList>
+    <graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <uiIconScale>0.80</uiIconScale>
+		<statBases>
+			<WorkToBuild>0</WorkToBuild>
+		</statBases>
+		<building>
+			<sowTag>SupportPlantsOnly</sowTag>
+			<alwaysDeconstructible>false</alwaysDeconstructible>
+			<canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+			<ai_chillDestination>false</ai_chillDestination>
+			<deconstructible>false</deconstructible>
+			<artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+		</building>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolAlpha</defName>
+	<label>Patrol Alpha</label>
+	<graphicData>
+		<texPath>Waypoints/BlackWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolBeta</defName>
+	<label>Patrol Beta</label>
+	<graphicData>
+		<texPath>Waypoints/RedWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolGamma</defName>
+	<label>Patrol Gamma</label>
+	<graphicData>
+		<texPath>Waypoints/OrangeWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolDelta</defName>
+	<label>Patrol Delta</label>
+	<graphicData>
+		<texPath>Waypoints/YellowWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolEpsilon</defName>
+	<label>Patrol Epsilon</label>
+	<graphicData>
+		<texPath>Waypoints/GreenWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolZeta</defName>
+	<label>Patrol Zeta</label>
+	<graphicData>
+		<texPath>Waypoints/BlueWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolEta</defName>
+	<label>Patrol Eta</label>
+	<graphicData>
+		<texPath>Waypoints/PurpleWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolTheta</defName>
+	<label>Patrol Theta</label>
+	<graphicData>
+		<texPath>Waypoints/PinkWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="GFM_PatrolBase">
+	<defName>GFM_WPPatrolIota</defName>
+	<label>Patrol Iota</label>
+	<graphicData>
+		<texPath>Waypoints/GrayWP</texPath>
+	</graphicData>
+  </ThingDef>
+  
+</Defs>
