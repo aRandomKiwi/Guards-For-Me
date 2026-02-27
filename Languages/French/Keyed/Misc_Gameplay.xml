@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<GFM_DesignatorNeedSelectValidThreat>Vous devez selectionner une menace valide</GFM_DesignatorNeedSelectValidThreat>
+	<GFM_DesignatorNeedSelectValidThreat>Vous devez sélectionner une menace valide</GFM_DesignatorNeedSelectValidThreat>
 	<GFM_DoStandguard>Garde une zone</GFM_DoStandguard>
 	<GFM_DoPatrolGuard>Patrouille sur un chemin</GFM_DoPatrolGuard>
-	<GFM_DoBodyGuard>Protége un VIP</GFM_DoBodyGuard>
+	<GFM_DoBodyGuard>Protège un VIP</GFM_DoBodyGuard>
 	<GFM_DoDeathSquad>Patrouille et élimine</GFM_DoDeathSquad>
 
 	<GFM_GuardSpotDirLeft>Gauche</GFM_GuardSpotDirLeft>
@@ -34,27 +34,29 @@
 	
 	
 	<GFM_GuardMode>Mode garde</GFM_GuardMode>
-	<GFM_GuardModeDesc>Permet à l'unité d'être affectée automatiquement sur des guardspot </GFM_GuardModeDesc>
+	<GFM_GuardModeDesc>Permet à l'unité d'être affectée automatiquement sur des postes de garde</GFM_GuardModeDesc>
 	
 	<GFM_GuardSpotAffectedPawn>Garde affecté : {0}</GFM_GuardSpotAffectedPawn>
-	<GFM_GuardSpotClearAffectedPawn>Annuler la réservation</GFM_GuardSpotClearAffectedPawn>
+	<GFM_GuardSpotClearAffectedPawn>Annuler l'affectation</GFM_GuardSpotClearAffectedPawn>
 	<GFM_GuardSpotAffectGuard>Forcer un garde</GFM_GuardSpotAffectGuard>
-	<GFM_GuardSpotAffectGuardDesc>Réserver un garde sur ce spot</GFM_GuardSpotAffectGuardDesc>
+	<GFM_GuardSpotAffectGuardDesc>Réserver un garde sur ce poste</GFM_GuardSpotAffectGuardDesc>
 
 	<GFM_GuardAttackOnlyNearThreats>Menaces proches</GFM_GuardAttackOnlyNearThreats>
-	<GFM_GuardAttackOnlyNearThreatsDesc>Si activé vous permet de spécifier aux gardes du corps de n'attaquer que des menaces très proches</GFM_GuardAttackOnlyNearThreatsDesc>
+	<GFM_GuardAttackOnlyNearThreatsDesc>Spécifie aux gardes du corps de n'attaquer que des menaces très proches</GFM_GuardAttackOnlyNearThreatsDesc>
 	
-	<GFM_GuardStopAll>Arrêtez tous les agents</GFM_GuardStopAll>
-	<GFM_GuardStopAllDesc>Permet d’empêcher tous les gardes du corps de protéger cet unitée</GFM_GuardStopAllDesc>
+	<GFM_GuardStopAll>Stopper la garde rapprochée</GFM_GuardStopAll>
+	<GFM_GuardStopAllDesc>Arrête la protection de l'unité</GFM_GuardStopAllDesc>
 	
-	<GFM_GuardStop>Arrêter la protection</GFM_GuardStop>
-	<GFM_GuardStopDesc>Permet d’arrêter le garde du corps de protéger cet unitée</GFM_GuardStopDesc>
+	<GFM_GuardStop>Annuler le garde du corps</GFM_GuardStop>
+	<GFM_GuardStopDesc>Ordonne au garde du corps d'arrêter de protéger cette unité</GFM_GuardStopDesc>
 	
 	<GFM_Guard>Protéger l'unité</GFM_Guard>
-	<GFM_GuardDesc>Vous permet de spécifier au mercenaire quelle unité protéger, il suivra et protégera l'unité</GFM_GuardDesc>
+	<GFM_GuardDesc>Vous permet de spécifier au garde du corps quelle unité protéger, il suivra et protégera l'unité</GFM_GuardDesc>
 	
-	<GFM_PatrolAndKill>Reaction force</GFM_PatrolAndKill>
-	<GFM_PatrolAndKillDesc>Autoriser l'unité à automatiquement detecter et tuer toutes les menaces présentes sur la map.</GFM_PatrolAndKillDesc>
+	<GFM_PatrolAndKill>Force de réaction</GFM_PatrolAndKill>
+	<GFM_PatrolAndKillDesc>Autoriser l'unité à automatiquement détecter et tuer toutes les menaces présentes sur la carte.</GFM_PatrolAndKillDesc>
+
+	<GFM_DeathSquadForceTarget>Ciblage forcé</GFM_DeathSquadForceTarget>
 
 	<!-- Alerts-->
 	<GFM_AlertWaypointsInfo>Appuyez sur 'Suppr' pour supprimer la patrouille</GFM_AlertWaypointsInfo>
@@ -64,38 +66,38 @@
 
 	<!-- Messages -->
 	<GFM_MsgPatrolDestroyed>Chemin de patrouille courant supprimé</GFM_MsgPatrolDestroyed>
-	<GFM_MsgPatrolLastWaypointDestroyed>Dernier waypoint placé supprimé</GFM_MsgPatrolLastWaypointDestroyed>
+	<GFM_MsgPatrolLastWaypointDestroyed>Dernier point de patrouille placé supprimé</GFM_MsgPatrolLastWaypointDestroyed>
 	<GFM_BodyGuardCantReachVIP>Impossible d'assigner le VIP {0} à {1} (Le VIP ne peut pas être atteint par le garde du corps)</GFM_BodyGuardCantReachVIP>
 	
 		<!-- Settings -->
-	<GFM_SettingsSectionGeneral>General :</GFM_SettingsSectionGeneral>
+	<GFM_SettingsSectionGeneral>Géneral :</GFM_SettingsSectionGeneral>
 	<GFM_SettingsEndPathMode>Quand un garde arrive au bout d'un chemin de patrouille :</GFM_SettingsEndPathMode>
 	<GFM_SettingsEndPathMode1>Il recommence dans la direction opposée</GFM_SettingsEndPathMode1>
-	<GFM_SettingsEndPathMode2>Il retourne au premier waypoint</GFM_SettingsEndPathMode2>
-	<GFM_SettingsJobStop>Arrêt d'un job</GFM_SettingsJobStop>
+	<GFM_SettingsEndPathMode2>Il retourne au premier point de patrouille</GFM_SettingsEndPathMode2>
+	<GFM_SettingsJobStop>Arrêt d'un travail</GFM_SettingsJobStop>
 	<GFM_SettingsMoodMinimumThresholdStopJob>Seuil minimum d'humeur ({0}%)</GFM_SettingsMoodMinimumThresholdStopJob>
 	<GFM_SettingsJoyMinimumThresholdStopJob>Seuil de plaisir minimum ({0}%)</GFM_SettingsJoyMinimumThresholdStopJob>
 	<GFM_SettingsFoodMinimumThresholdStopJob>Seuil de nourriture minimum ({0}%)</GFM_SettingsFoodMinimumThresholdStopJob>
 	<GFM_SettingsRestMinimumThresholdStopJob>Seuil de repos minimum ({0}%)</GFM_SettingsRestMinimumThresholdStopJob>
 	<GFM_SettingsBladderMinimumThresholdStopJob>Seuil de digestion (Dubs bad Hygiene mod) minimum ({0}%)</GFM_SettingsBladderMinimumThresholdStopJob>
-	<GFM_SettingsHygieneMinimumThresholdStopJob>Seuil d'hygiene (Dubs bad Hygiene mod) minimum ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
+	<GFM_SettingsHygieneMinimumThresholdStopJob>Seuil d'hygiène (Dubs bad Hygiene mod) minimum ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
 	<GFM_SettingsPatrolWalkMode>Mode de marche pour les patrouilles</GFM_SettingsPatrolWalkMode>
 	<GFM_SettingsPatrolWalkModeWalk>Marche</GFM_SettingsPatrolWalkModeWalk>
 	<GFM_SettingsPatrolWalkModeJog>Jogging</GFM_SettingsPatrolWalkModeJog>
-	<GFM_SettingsPatrolWalkModeSprint>Court</GFM_SettingsPatrolWalkModeSprint>
+	<GFM_SettingsPatrolWalkModeSprint>Sprint</GFM_SettingsPatrolWalkModeSprint>
 	<GFM_SettingsHideIcon>Masquer les icônes</GFM_SettingsHideIcon>
 	<GFM_SettingsHideGuardSpot>Masquer les lieux de garde</GFM_SettingsHideGuardSpot>
 	<GFM_SettingsGuardAsJob>Présenter la fonction de "Garde" comme un métier</GFM_SettingsGuardAsJob>
 	<GFM_SettingsStandGuardAreFixed>Les gardes ne bougent pas de leur 'poste de garde' quand ils attaquent (attaque à distance uniquement)</GFM_SettingsStandGuardAreFixed>
 	<GFM_SettingsDisableJobDisplay>Désactiver l'affichage du job de garde effectué dans le volet d'inspection</GFM_SettingsDisableJobDisplay>
-	<GFM_SettingsExterminatorGuard>Activer le mode exterminateur ( les gardes tues en plus tous les animaux sauvages )</GFM_SettingsExterminatorGuard>
+	<GFM_SettingsExterminatorGuard>Activer le mode exterminateur ( les gardes tuent en plus tous les animaux sauvages )</GFM_SettingsExterminatorGuard>
 	<GFM_SettingsColonistTitleUnderName>Afficher le titre des colons sous leur nom</GFM_SettingsColonistTitleUnderName>
-	<GFM_SettingsMeleeAttackRadiusSpot>Rayon de détection des enemies pour les guardes ayant une arme au corps à corps ({0})</GFM_SettingsMeleeAttackRadiusSpot>
+	<GFM_SettingsMeleeAttackRadiusSpot>Rayon de détection des ennemis pour les gardes ayant une arme de mêlée ({0})</GFM_SettingsMeleeAttackRadiusSpot>
 	<GFM_SettingsStandingGuardMaxDistanceWithGS>Distance maximum dont peut s'éloigner un garde de son 'poste de garde' avant d'être forcé à y revenir ({0})</GFM_SettingsStandingGuardMaxDistanceWithGS>
-	<GFM_SettingsAutoUnforbidThreatsKilledByGuards>Automatiquement désinterdire les corps des ennemies tués par les gardes</GFM_SettingsAutoUnforbidThreatsKilledByGuards>
-	<GFM_SettingsKillDownedThreats>Tuer les ennemies à terre</GFM_SettingsKillDownedThreats>
-	<GFM_SettingsHideStandGuardButton>Masquer le boutton 'Garde'</GFM_SettingsHideStandGuardButton>
-	<GFM_SettingsHidePatrolButton>Masquer le boutton 'Patrouille'</GFM_SettingsHidePatrolButton>
-	<GFM_SettingsHideBodyguardButton>Masquer le boutton 'Garde du corps'</GFM_SettingsHideBodyguardButton>
-	<GFM_SettingsHideReactionForceButton>Masquer le boutton 'Force de reaction'</GFM_SettingsHideReactionForceButton>
+	<GFM_SettingsAutoUnforbidThreatsKilledByGuards>Désactiver l'interdiction des corps des ennemis tués par les gardes</GFM_SettingsAutoUnforbidThreatsKilledByGuards>
+	<GFM_SettingsKillDownedThreats>Tuer les ennemis à terre</GFM_SettingsKillDownedThreats>
+	<GFM_SettingsHideStandGuardButton>Masquer le bouton 'Garde'</GFM_SettingsHideStandGuardButton>
+	<GFM_SettingsHidePatrolButton>Masquer le bouton 'Patrouille'</GFM_SettingsHidePatrolButton>
+	<GFM_SettingsHideBodyguardButton>Masquer le bouton 'Garde du corps'</GFM_SettingsHideBodyguardButton>
+	<GFM_SettingsHideReactionForceButton>Masquer le bouton 'Force de réaction'</GFM_SettingsHideReactionForceButton>
 </LanguageData>
