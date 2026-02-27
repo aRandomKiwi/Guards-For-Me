@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GFM_GuardSpot.label>黑色崗哨點</GFM_GuardSpot.label>
+  <GFM_GuardSpot.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpot.description>
+  <GFM_WPPatrolAlpha.label>巡邏點Alpha</GFM_WPPatrolAlpha.label>
+  <GFM_WPPatrolAlpha.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolAlpha.description>
+  <GFM_WPPatrolBeta.label>巡邏點Beta</GFM_WPPatrolBeta.label>
+  <GFM_WPPatrolBeta.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolBeta.description>
+  <GFM_WPPatrolGamma.label>巡邏點Gamma</GFM_WPPatrolGamma.label>
+  <GFM_WPPatrolGamma.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolGamma.description>
+  <GFM_WPPatrolDelta.label>巡邏點Delta</GFM_WPPatrolDelta.label>
+  <GFM_WPPatrolDelta.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolDelta.description>
+  <GFM_WPPatrolEpsilon.label>巡邏點Epsilon</GFM_WPPatrolEpsilon.label>
+  <GFM_WPPatrolEpsilon.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolEpsilon.description>
+  <GFM_WPPatrolZeta.label>巡邏點Zeta</GFM_WPPatrolZeta.label>
+  <GFM_WPPatrolZeta.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolZeta.description>
+  <GFM_WPPatrolEta.label>巡邏點Eta</GFM_WPPatrolEta.label>
+  <GFM_WPPatrolEta.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolEta.description>
+  <GFM_WPPatrolTheta.label>巡邏點Theta</GFM_WPPatrolTheta.label>
+  <GFM_WPPatrolTheta.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolTheta.description>
+  <GFM_WPPatrolIota.label>巡邏點Iota</GFM_WPPatrolIota.label>
+  <GFM_WPPatrolIota.description>一個路徑點，用於形成巡邏線。</GFM_WPPatrolIota.description>
+  <GFM_GuardSpotRed.label>紅色崗哨點</GFM_GuardSpotRed.label>
+  <GFM_GuardSpotRed.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotRed.description>
+  <GFM_GuardSpotOrange.label>橘色崗哨點</GFM_GuardSpotOrange.label>
+  <GFM_GuardSpotOrange.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotOrange.description>
+  <GFM_GuardSpotYellow.label>黃色崗哨點</GFM_GuardSpotYellow.label>
+  <GFM_GuardSpotYellow.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotYellow.description>
+  <GFM_GuardSpotGreen.label>綠色崗哨點</GFM_GuardSpotGreen.label>
+  <GFM_GuardSpotGreen.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotGreen.description>
+  <GFM_GuardSpotBlue.label>藍色崗哨點</GFM_GuardSpotBlue.label>
+  <GFM_GuardSpotBlue.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotBlue.description>
+  <GFM_GuardSpotPurple.label>紫色崗哨點</GFM_GuardSpotPurple.label>
+  <GFM_GuardSpotPurple.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotPurple.description>
+  <GFM_GuardSpotPink.label>粉色崗哨點</GFM_GuardSpotPink.label>
+  <GFM_GuardSpotPink.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotPink.description>
+  <GFM_GuardSpotGray.label>灰色崗哨點</GFM_GuardSpotGray.label>
+  <GFM_GuardSpotGray.description>在地上指定一個守衛應站崗的地點。</GFM_GuardSpotGray.description>
+</LanguageData>

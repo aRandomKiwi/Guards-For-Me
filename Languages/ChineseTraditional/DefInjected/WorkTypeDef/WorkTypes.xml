@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GFM_Guard.label>守衛</GFM_Guard.label>
+  <GFM_Guard.description>守衛職業</GFM_Guard.description>
+  <GFM_Guard.gerundLabel>站崗中</GFM_Guard.gerundLabel>
+  <GFM_Guard.labelShort>守衛</GFM_Guard.labelShort>
+  <GFM_Guard.pawnLabel>守衛</GFM_Guard.pawnLabel>
+  <GFM_Guard.verb>站崗中</GFM_Guard.verb>
+</LanguageData>
