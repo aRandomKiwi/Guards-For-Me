@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GFM_DoStandguard.Label>區域站崗中</GFM_DoStandguard.Label>
+  <GFM_DoStandguard.gerund>區域站崗中</GFM_DoStandguard.gerund>
+  <GFM_DoStandguard.verb>區域站崗中</GFM_DoStandguard.verb>
+  <GFM_DoPatrolGuard.Label>巡邏中</GFM_DoPatrolGuard.Label>
+  <GFM_DoPatrolGuard.gerund>沿路徑巡邏中</GFM_DoPatrolGuard.gerund>
+  <GFM_DoPatrolGuard.verb>沿路徑巡邏中</GFM_DoPatrolGuard.verb>
+  <GFM_DoBodyGuard.Label>保護VIP</GFM_DoBodyGuard.Label>
+  <GFM_DoBodyGuard.gerund>保護一名VIP</GFM_DoBodyGuard.gerund>
+  <GFM_DoBodyGuard.verb>保護一名VIP</GFM_DoBodyGuard.verb>
+  <GFM_DoDeathSquad.Label>搜尋與殲滅</GFM_DoDeathSquad.Label>
+  <GFM_DoDeathSquad.gerund>搜尋與殲滅</GFM_DoDeathSquad.gerund>
+  <GFM_DoDeathSquad.verb>搜尋與殲滅</GFM_DoDeathSquad.verb>
+</LanguageData>
