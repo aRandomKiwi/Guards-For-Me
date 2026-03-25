@@ -42,7 +42,7 @@ namespace aRandomKiwi.GFM
             }*/
 
             if (comp == null || !comp.DeathSquadMode()
-               || (pawn.timetable.CurrentAssignment == TimeAssignmentDefOf.Joy)
+               || (pawn.timetable != null && pawn.timetable.CurrentAssignment == TimeAssignmentDefOf.Joy)
                 || (pawn.health != null && pawn.health.summaryHealth.SummaryHealthPercent <= 0.55f && !GenAI.EnemyIsNear(pawn, 55f))
                 || Utils.guardNeedFood(pawn)
                 || Utils.guardNeedJoy(pawn)

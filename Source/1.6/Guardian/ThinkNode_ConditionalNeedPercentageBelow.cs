@@ -17,7 +17,9 @@ namespace aRandomKiwi.GFM
 
         protected override bool Satisfied(Pawn pawn)
         {
-            return pawn.needs.TryGetNeed(this.need).CurLevelPercentage < this.threshold;
+            if (pawn.needs == null) return false;
+            Need need = pawn.needs.TryGetNeed(this.need);
+            return need != null && need.CurLevelPercentage < this.threshold;
         }
 
         private NeedDef need;

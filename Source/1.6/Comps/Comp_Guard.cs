@@ -290,7 +290,8 @@ namespace aRandomKiwi.GFM
                                 if (!cp.health.capacities.CapableOf(PawnCapacityDefOf.Sight))
                                     continue;
 
-                                cp.needs.mood.thoughts.memories.TryGainMemory(Utils.SawnGuard, null);
+                                if (cp.needs?.mood?.thoughts?.memories != null)
+                                    cp.needs.mood.thoughts.memories.TryGainMemory(Utils.SawnGuard, null);
                             }
                         }
                     }
