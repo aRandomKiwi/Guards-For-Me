@@ -41,7 +41,7 @@ namespace aRandomKiwi.GFM
             Comp_Guard comp = pawn.TryGetComp<Comp_Guard>();
 
             if (comp == null || !comp.GuardMode()
-               || (pawn.timetable.CurrentAssignment == TimeAssignmentDefOf.Joy)
+               || (pawn.timetable != null && pawn.timetable.CurrentAssignment == TimeAssignmentDefOf.Joy)
                 || (pawn.health != null && pawn.health.summaryHealth != null && pawn.health.summaryHealth.SummaryHealthPercent <= 0.55f && !GenAI.EnemyIsNear(pawn, 55f))
                 || ThinkNode_ConditionalShouldSearchAndKill.ShouldSearchAndKill(pawn)
                 || Utils.guardNeedFood(pawn)

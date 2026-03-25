@@ -42,36 +42,43 @@ namespace aRandomKiwi.GFM
 
         public static bool guardNeedRest(Pawn pawn)
         {
+            if (pawn.needs == null) return false;
             return (pawn.needs.rest != null && pawn.needs.rest.CurLevelPercentage < Settings.minRestStopJob) || (ANDROIDLOADED && chjDroidNeedRest(pawn));
         }
 
         public static bool guardNeedFood(Pawn pawn)
         {
+            if (pawn.needs == null) return false;
             return (pawn.needs.food != null && pawn.needs.food.CurLevelPercentage < Settings.minFoodStopJob);
         }
 
         public static bool guardNeedJoy(Pawn pawn)
         {
+            if (pawn.needs == null) return false;
             return (pawn.needs.joy != null && pawn.needs.joy.CurLevelPercentage < Settings.minJoyStopJob);
         }
 
         public static bool guardNeedMood(Pawn pawn)
         {
+            if (pawn.needs == null) return false;
             return (pawn.needs.mood != null && pawn.needs.mood.CurLevelPercentage < Settings.minMoodStopJob);
         }
 
         public static bool guardNeedHygiene(Pawn pawn)
         {
+            if (pawn.needs == null) return false;
             return (needHygiene != null && pawn.needs.TryGetNeed(needHygiene) != null && pawn.needs.TryGetNeed(needHygiene).CurLevelPercentage < Settings.minHygieneStopJob);
         }
 
         public static bool guardNeedBladder(Pawn pawn)
         {
+            if (pawn.needs == null) return false;
             return (needBladder != null && pawn.needs.TryGetNeed(needBladder) != null && pawn.needs.TryGetNeed(needBladder).CurLevelPercentage < Settings.minBladderStopJob);
         }
 
         public static bool chjDroidNeedRest(Pawn pawn)
         {
+             if (pawn.needs == null) return false;
              foreach (Need need in pawn.needs.AllNeeds)
 			 {
 				if (need != null && need.def.defName == "ChJEnergy")
